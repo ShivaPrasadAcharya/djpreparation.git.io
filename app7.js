@@ -57,6 +57,7 @@
             .replace(/^## (.*$)/gim, '<h2>$1</h2>')
             // h1 already handled
             .replace(/\*\*(.*?)\*\*/gim, '<strong>$1</strong>')
+            .replace(/\*(.*?)\*/gim, '<i>$1</i>')
             .replace(/\n---\n/g, '<hr>')
             .replace(/\n/g, '<br>');
         return toc + html;
@@ -298,3 +299,4 @@
     // Expose for app8.js
     window.markdownSearchBar = addMarkdownSearch;
 })();
+
