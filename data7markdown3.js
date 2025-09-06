@@ -1,4 +1,4 @@
-// data7markdown1.js
+// data7markdown3.js
 window.markdown3Content = `
 
 # The Utility of Substantive vs. Procedural Law Classification Despite Gray Areas
@@ -200,5 +200,9 @@ In legal practice, the most effective approach is to:
 *The beauty of law lies not in its perfect precision, but in its capacity to evolve and adapt while maintaining sufficient structure to guide human conduct and resolve disputes fairly.*
 
 `;
+window.markdown3Meta = { name: "substantive vs procedural law", 
+
+  emoji: "📄" };
+
 
 
