@@ -42,11 +42,11 @@ While borderline cases exist, there's substantial agreement on **core categories
 
 Modern jurisprudence increasingly treats this as a **spectrum rather than binary classification**:
 
-```
+\`\`\`
 Pure Substantive ←————————————————————————→ Pure Procedural
      |                    |                    |
   Criminal law     Limitation periods    Court filing rules
-```
+\`\`\`
 
 ### Degrees of Classification:
 - **Primarily substantive with procedural aspects**
@@ -203,6 +203,7 @@ In legal practice, the most effective approach is to:
 window.markdown3Meta = { name: "substantive vs procedural law", 
 
   emoji: "📄" };
+
 
 
 
