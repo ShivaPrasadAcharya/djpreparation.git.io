@@ -1,21 +1,26 @@
 // data0txt1.js
 window.txt1Content = `
 TABLE OF CONTENTS -
-Civil Law - Plain Text Sample 1
+Sanskrit poem-कमलम् विकसति...
 Civil Law - Plain Text Sample 2
 
-Civil Law - Plain Text Sample 1
-
-This is a sample plain text file for NoteZ dropdown.
-It contains basic information about civil law and contract principles.
-
-- Contract: An agreement enforceable by law.
-- Offer: A proposal by one party to another.
-- Acceptance: Consent to the offer.
-
-End of sample 1.
+कमलम् विकसति सुन्दर सरसि 
+क ख ग घ ङ
+चटका गायति चियूं चियूं गीतं 
+च छ ज झ ञ
+टण टण नादं करोति घण्टा 
+ट ठ ड ढ ण
+तरुवर शाखा हरिता हरिता 
+त थ द ध न
+पठन्तु सर्वे वदन्तु सर्वे 
+प फ ब भ म
+यत्र तत्र रे चित्र पतङ्गा
+य र ल व
+शशको शावकः धावति कूर्दति 
+श ष स ह
+पठन्तु सर्वे वदन्तु सर्वे वर्णानां माला
 `;
 window.txt1Meta = {
-  name: "Civil Law TXT 12",
+  name: "संस्कृत वर्णमाला",
   emoji: "📃"
 };
