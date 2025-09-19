@@ -2554,7 +2554,7 @@ Understanding these variations is not merely academic—it's essential for anyon
 - Transnational Litigation Blog
 - Letters Blogatory
 `;
-window.markdown5Meta = { name: "dj contents-writing style", 
+window.markdown5Meta = { name: "tort, vjs", 
 
   emoji: "📄" };
 
