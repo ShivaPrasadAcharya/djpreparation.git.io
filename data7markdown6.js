@@ -235,7 +235,7 @@ Judicial independence is not an absolute privilege for judges; it is a **functi
 
 The greatest misconception is viewing it as a static state. It is a **dynamic equilibrium** that must be constantly nurtured and defended from erosion. An independent judiciary does not exist to serve itself, but to serve the public by guaranteeing that every person, from the most powerful to the most vulnerable, receives a fair hearing based on the law alone.
 `;
-window.markdown6Meta = { name: "misconceptions", 
+window.markdown6Meta = { name: " myths & misconceptions", 
 
   emoji: "📄" };
 
