@@ -8521,7 +8521,7 @@ Organized crime and money laundering exist in a symbiotic relationship where one
 
 #### Essential Characteristics
 
-```
+<pre>
 ORGANIZED CRIME STRUCTURE
 ├── ORGANIZATIONAL ELEMENTS
 │   ├── Hierarchical Structure
@@ -8568,7 +8568,7 @@ ORGANIZED CRIME STRUCTURE
     ├── Political
     ├── Social
     └── Security
-```
+</pre>
 
 ### Money Laundering: Definition and Process
 
@@ -8578,7 +8578,7 @@ ORGANIZED CRIME STRUCTURE
 
 #### The Classic Three-Stage Model
 
-```
+<pre>
 MONEY LAUNDERING PROCESS
 ├── STAGE 1: PLACEMENT
 │   ├── Cash Deposits
@@ -8636,7 +8636,7 @@ MONEY LAUNDERING PROCESS
         ├── Gambling "Winnings"
         ├── Business "Profits"
         └── Investment "Returns"
-```
+</pre>
 
 ---
 
@@ -8646,7 +8646,7 @@ MONEY LAUNDERING PROCESS
 
 #### Operational Necessities
 
-```
+<pre>
 CRIMINAL ENTERPRISE NEEDS
 ├── FINANCIAL MANAGEMENT
 │   ├── Profit Utilization
@@ -8683,13 +8683,13 @@ CRIMINAL ENTERPRISE NEEDS
     ├── Geographic Spread
     ├── Legal Distance
     └── Plausible Deniability
-```
+</pre>
 
 ### How Money Laundering Enables Organized Crime
 
 #### Facilitation Mechanisms
 
-```
+<pre>
 ENABLING FUNCTIONS
 ├── LEGITIMACY CREATION
 │   ├── Social Acceptance
@@ -8722,11 +8722,11 @@ ENABLING FUNCTIONS
     ├── Market Expansion
     ├── Merger Opportunities
     └── Generational Continuity
-```
+</pre>
 
 ### The Feedback Loop
 
-```
+<pre>
 CRIME-LAUNDERING CYCLE
      Organized Crime
            ↓
@@ -8743,7 +8743,7 @@ CRIME-LAUNDERING CYCLE
     More Crime
            ↓
     [Cycle Continues]
-```
+</pre>
 
 ---
 
@@ -8753,7 +8753,7 @@ CRIME-LAUNDERING CYCLE
 
 #### Traditional Era (Pre-1970s)
 
-```
+<pre>
 TRADITIONAL METHODS
 ├── SIMPLE TECHNIQUES
 │   ├── Cash Businesses
@@ -8779,7 +8779,7 @@ TRADITIONAL METHODS
     ├── Irish Mob
     ├── Jewish Syndicate
     └── Chinese Triads
-```
+</pre>
 
 #### Globalization Era (1970s-2000s)
 
@@ -8791,7 +8791,7 @@ TRADITIONAL METHODS
 - Travel ease
 
 **New Methodologies:**
-```
+<pre>
 SOPHISTICATED SCHEMES
 ├── OFFSHORE STRUCTURES
 │   ├── Shell Companies
@@ -8810,11 +8810,11 @@ SOPHISTICATED SCHEMES
     ├── Accountants (Structures)
     ├── Bankers (Private Banking)
     └── Real Estate (Transactions)
-```
+</pre>
 
 #### Digital Era (2000s-Present)
 
-```
+<pre>
 MODERN INNOVATIONS
 ├── CRYPTOCURRENCY
 │   ├── Bitcoin Mixing
@@ -8843,7 +8843,7 @@ MODERN INNOVATIONS
     ├── Quantum Computing
     ├── Metaverse Assets
     └── CBDC Vulnerabilities
-```
+</pre>
 
 ---
 
@@ -8853,7 +8853,7 @@ MODERN INNOVATIONS
 
 #### The Narcotics-Money Nexus
 
-```
+<pre>
 DRUG MONEY FLOW
 ├── PRODUCTION LEVEL
 │   ├── Precursor Purchase
@@ -8882,11 +8882,11 @@ DRUG MONEY FLOW
     │   └── Worker transfers
     └── Casino Operations
         └── Chip conversion
-```
+</pre>
 
 ### Human Trafficking and Financial Flows
 
-```
+<pre>
 TRAFFICKING FINANCES
 ├── RECRUITMENT
 │   ├── False Job Ads
@@ -8911,11 +8911,11 @@ TRAFFICKING FINANCES
     ├── Debt Bondage
     ├── Asset Stripping
     └── Identity Theft
-```
+</pre>
 
 ### Cybercrime and Digital Laundering
 
-```
+<pre>
 CYBERCRIME LAUNDERING
 ├── RANSOMWARE
 │   ├── Bitcoin Demands
@@ -8940,7 +8940,7 @@ CYBERCRIME LAUNDERING
     ├── Chain-Hopping
     ├── DeFi Protocols
     └── Privacy Coins
-```
+</pre>
 
 ---
 
@@ -8950,7 +8950,7 @@ CYBERCRIME LAUNDERING
 
 #### Major Players
 
-```
+<pre>
 GLOBAL CRIME SYNDICATES
 ├── LATIN AMERICAN
 │   ├── Mexican Cartels
@@ -8984,13 +8984,13 @@ GLOBAL CRIME SYNDICATES
     ├── Nigerian Networks
     ├── South African Syndicates
     └── North African Groups
-```
+</pre>
 
 ### Financial Infrastructure
 
 #### Professional Facilitators
 
-```
+<pre>
 ENABLER NETWORK
 ├── FINANCIAL PROFESSIONALS
 │   ├── Corrupt Bankers
@@ -9021,11 +9021,11 @@ ENABLER NETWORK
     ├── Payment Processors
     ├── Software Developers
     └── Cybercrime-as-a-Service
-```
+</pre>
 
 ### Geographic Hotspots
 
-```
+<pre>
 LAUNDERING CENTERS
 ├── TRADITIONAL HAVENS
 │   ├── Switzerland
@@ -9050,7 +9050,7 @@ LAUNDERING CENTERS
     ├── Special Economic Zones
     ├── Gaming Centers
     └── Crypto-Friendly Jurisdictions
-```
+</pre>
 
 ---
 
@@ -9060,7 +9060,7 @@ LAUNDERING CENTERS
 
 #### Key Conventions and Treaties
 
-```
+<pre>
 INTERNATIONAL FRAMEWORK
 ├── UN CONVENTIONS
 │   ├── Vienna Convention (1988)
@@ -9095,13 +9095,13 @@ INTERNATIONAL FRAMEWORK
     ├── Wolfsberg Group (Banks)
     ├── Basel Committee
     └── IOSCO (Securities)
-```
+</pre>
 
 ### National Legislation
 
 #### United States Framework
 
-```
+<pre>
 US LEGAL FRAMEWORK
 ├── CRIMINAL LAWS
 │   ├── RICO (1970)
@@ -9124,11 +9124,11 @@ US LEGAL FRAMEWORK
     ├── Criminal Forfeiture
     ├── Prosecutorial Tools
     └── International Cooperation
-```
+</pre>
 
 #### European Union Framework
 
-```
+<pre>
 EU FRAMEWORK
 ├── AML DIRECTIVES
 │   ├── 6AMLD (Criminal Law)
@@ -9147,11 +9147,11 @@ EU FRAMEWORK
     ├── Enhanced Due Diligence
     ├── PEPs Monitoring
     └── Information Sharing
-```
+</pre>
 
 ### Enforcement Mechanisms
 
-```
+<pre>
 ENFORCEMENT TOOLS
 ├── INVESTIGATION
 │   ├── Financial Intelligence
@@ -9187,7 +9187,7 @@ ENFORCEMENT TOOLS
     ├── Suspicious Activity Reports
     ├── Training Programs
     └── Compliance Programs
-```
+</pre>
 
 ---
 
@@ -9195,7 +9195,7 @@ ENFORCEMENT TOOLS
 
 ### Economic Impact
 
-```
+<pre>
 ECONOMIC CONSEQUENCES
 ├── MACRO-ECONOMIC
 │   ├── GDP Distortion (2-5% globally)
@@ -9224,11 +9224,11 @@ ECONOMIC CONSEQUENCES
     ├── Corporate Capture
     ├── Regulatory Burden
     └── Competitive Disadvantage
-```
+</pre>
 
 ### Political and Governance Impact
 
-```
+<pre>
 GOVERNANCE CORRUPTION
 ├── INSTITUTIONAL CAPTURE
 │   ├── Legislative Influence
@@ -9257,11 +9257,11 @@ GOVERNANCE CORRUPTION
     ├── Failed States
     ├── Conflict Zones
     └── Terrorism Financing
-```
+</pre>
 
 ### Social Impact
 
-```
+<pre>
 SOCIAL CONSEQUENCES
 ├── COMMUNITY DESTRUCTION
 │   ├── Violence/Intimidation
@@ -9290,7 +9290,7 @@ SOCIAL CONSEQUENCES
     ├── Trust Erosion
     ├── Value Distortion
     └── Role Model Crisis
-```
+</pre>
 
 ---
 
@@ -9298,7 +9298,7 @@ SOCIAL CONSEQUENCES
 
 ### Red Flags and Indicators
 
-```
+<pre>
 WARNING SIGNS
 ├── TRANSACTIONAL RED FLAGS
 │   ├── Structuring/Smurfing
@@ -9331,11 +9331,11 @@ WARNING SIGNS
     ├── Communication Methods
     ├── Security Measures
     └── Professional Services Use
-```
+</pre>
 
 ### Technology Solutions
 
-```
+<pre>
 TECH-ENABLED DETECTION
 ├── TRADITIONAL SYSTEMS
 │   ├── Transaction Monitoring
@@ -9366,11 +9366,11 @@ TECH-ENABLED DETECTION
     ├── Graph Databases
     ├── Real-Time Intelligence
     └── Biometric Systems
-```
+</pre>
 
 ### Best Practices
 
-```
+<pre>
 PREVENTION FRAMEWORK
 ├── INSTITUTIONAL LEVEL
 │   ├── Risk Assessment
@@ -9403,7 +9403,7 @@ PREVENTION FRAMEWORK
     ├── Industry Initiatives
     ├── International Cooperation
     └── Capacity Building
-```
+</pre>
 
 ---
 
@@ -9413,7 +9413,7 @@ PREVENTION FRAMEWORK
 
 #### BCCI Scandal (1991)
 
-```
+<pre>
 BCCI CASE STUDY
 ├── SCALE
 │   ├── 78 Countries
@@ -9441,11 +9441,11 @@ BCCI CASE STUDY
     ├── Basel Standards
     ├── Cross-Border Supervision
     └── $10B+ Losses
-```
+</pre>
 
 #### Pablo Escobar/Medellín Cartel
 
-```
+<pre>
 ESCOBAR EMPIRE
 ├── CRIMINAL ENTERPRISE
 │   ├── 80% US Cocaine Market
@@ -9466,13 +9466,13 @@ ESCOBAR EMPIRE
     ├── AML Laws Strengthening
     ├── International Cooperation
     └── Cartel Evolution
-```
+</pre>
 
 ### Contemporary Cases
 
 #### 1MDB Scandal (2009-2018)
 
-```
+<pre>
 1MDB SCANDAL
 ├── SCOPE
 │   ├── $4.5 Billion Diverted
@@ -9501,11 +9501,11 @@ ESCOBAR EMPIRE
     ├── $3.9B Goldman Fine
     ├── Asset Recovery
     └── Regulatory Changes
-```
+</pre>
 
 #### Danske Bank (2007-2015)
 
-```
+<pre>
 DANSKE BANK CASE
 ├── SCALE
 │   ├── €200 Billion
@@ -9526,7 +9526,7 @@ DANSKE BANK CASE
     ├── Share Price Collapse
     ├── Regulatory Overhaul
     └── Industry Shake-up
-```
+</pre>
 
 ---
 
@@ -9534,7 +9534,7 @@ DANSKE BANK CASE
 
 ### Cryptocurrency and DeFi
 
-```
+<pre>
 CRYPTO LAUNDERING EVOLUTION
 ├── FIRST GENERATION
 │   ├── Bitcoin Mixing
@@ -9564,11 +9564,11 @@ CRYPTO LAUNDERING EVOLUTION
     ├── CBDC Exploitation
     ├── Zero-Knowledge Protocols
     └── Regulatory Arbitrage
-```
+</pre>
 
 ### Environmental Crimes and Laundering
 
-```
+<pre>
 GREEN CRIME NEXUS
 ├── ILLEGAL ACTIVITIES
 │   ├── Wildlife Trafficking ($23B)
@@ -9590,11 +9590,11 @@ GREEN CRIME NEXUS
     ├── Regulatory Gaps
     ├── High Profits
     └── Low Detection Risk
-```
+</pre>
 
 ### Pandemic Effects and Adaptations
 
-```
+<pre>
 COVID-19 IMPACT
 ├── CRIMINAL ADAPTATIONS
 │   ├── Healthcare Fraud
@@ -9616,7 +9616,7 @@ COVID-19 IMPACT
     ├── Resource Diversion
     ├── International Cooperation Barriers
     └── Economic Priority Shift
-```
+</pre>
 
 ---
 
@@ -9624,7 +9624,7 @@ COVID-19 IMPACT
 
 ### Law Enforcement Approaches
 
-```
+<pre>
 ENFORCEMENT EVOLUTION
 ├── TRADITIONAL METHODS
 │   ├── Follow the Money
@@ -9654,11 +9654,11 @@ ENFORCEMENT EVOLUTION
     ├── Quantum Cryptanalysis
     ├── Behavioral Analytics
     └── Real-Time Intelligence
-```
+</pre>
 
 ### Financial Sector Response
 
-```
+<pre>
 INSTITUTIONAL MEASURES
 ├── COMPLIANCE PROGRAMS
 │   ├── Risk-Based Approach
@@ -9687,11 +9687,11 @@ INSTITUTIONAL MEASURES
     ├── Customer Friction
     ├── Regulatory Expectations
     └── Cross-Border Complexity
-```
+</pre>
 
 ### International Cooperation
 
-```
+<pre>
 GLOBAL COOPERATION
 ├── MULTILATERAL MECHANISMS
 │   ├── FATF Mutual Evaluations
@@ -9720,7 +9720,7 @@ GLOBAL COOPERATION
     ├── Political Will Variance
     ├── Resource Disparities
     └── Trust Deficits
-```
+</pre>
 
 ---
 
@@ -9728,7 +9728,7 @@ GLOBAL COOPERATION
 
 ### Comprehensive Strategy Framework
 
-```
+<pre>
 HOLISTIC APPROACH
 ├── PREVENTION
 │   ├── Education Programs
@@ -9764,11 +9764,11 @@ HOLISTIC APPROACH
     ├── Community Restoration
     ├── Institutional Reform
     └── Prevention Investment
-```
+</pre>
 
 ### Regulatory Enhancements
 
-```
+<pre>
 REGULATORY PRIORITIES
 ├── IMMEDIATE ACTIONS
 │   ├── Beneficial Ownership Transparency
@@ -9790,11 +9790,11 @@ REGULATORY PRIORITIES
     ├── Real-Time Monitoring
     ├── AI Governance Framework
     └── Quantum-Ready Security
-```
+</pre>
 
 ### Innovation and Technology
 
-```
+<pre>
 TECHNOLOGY ROADMAP
 ├── NEAR-TERM (1-2 YEARS)
 │   ├── API Integration
@@ -9816,7 +9816,7 @@ TECHNOLOGY ROADMAP
     ├── Autonomous Systems
     ├── Molecular Computing
     └── Space-Based Systems
-```
+</pre>
 
 ---
 
@@ -9863,7 +9863,7 @@ The juxtaposition of organized crime and money laundering reveals a fundamental 
 
 #### Paradigm Shifts Needed
 
-```
+<pre>
 FROM                          →    TO
 Reactive Enforcement          →    Proactive Prevention
 National Focus               →    Global Coordination
@@ -9873,7 +9873,7 @@ Rule-Based Detection         →    AI-Powered Analytics
 Information Silos            →    Secure Sharing
 Static Regulations           →    Adaptive Frameworks
 Criminal Justice Only        →    Whole-of-Society
-```
+</pre>
 
 #### Critical Success Factors
 
@@ -10054,7 +10054,9 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Essential Characteristics
 
-<pre>OWNERSHIP STRUCTURE
+<pre>
+
+OWNERSHIP STRUCTURE
 ├── LEGAL RIGHTS BUNDLE
 │   ├── Jus Possidendi (Right to Possess)
 │   ├── Jus Utendi (Right to Use)
@@ -10108,7 +10110,9 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Essential Elements
 
-<pre>POSSESSION STRUCTURE
+<pre>
+
+POSSESSION STRUCTURE
 ├── CORPUS (Physical Element)
 │   ├── Actual Control
 │   ├── Physical Occupancy
@@ -10175,7 +10179,9 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 ### Relationship Patterns
 
-<pre>OWNERSHIP-POSSESSION RELATIONSHIPS
+<pre>
+
+OWNERSHIP-POSSESSION RELATIONSHIPS
 
 1. OWNERSHIP WITH POSSESSION (Normal State)
    Owner ←→ Property
@@ -10207,7 +10213,9 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 #### Roman Law
 
 **Distinctions:**
-<pre>ROMAN PROPERTY CONCEPTS
+<pre>
+
+ROMAN PROPERTY CONCEPTS
 ├── Dominium (Ownership)
 │   ├── Quiritary ownership
 │   ├── Bonitary ownership
@@ -10276,7 +10284,9 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Based on Extent
 
-<pre>OWNERSHIP CLASSIFICATIONS
+<pre>
+
+OWNERSHIP CLASSIFICATIONS
 ├── ABSOLUTE OWNERSHIP
 │   └── Complete rights bundle
 │
@@ -10310,7 +10320,9 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Based on Intent
 
-<pre>POSSESSION TYPES BY INTENT
+<pre>
+
+POSSESSION TYPES BY INTENT
 ├── RIGHTFUL POSSESSION
 │   ├── Owner possession
 │   ├── Authorized possession
@@ -10345,7 +10357,9 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Ownership Rights
 
-<pre>OWNER'S REMEDIES
+<pre>
+
+OWNER'S REMEDIES
 ├── RECOVERY ACTIONS
 │   ├── Replevin (Personal Property)
 │   ├── Ejectment (Real Property)
@@ -10373,7 +10387,9 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Possessory Rights
 
-<pre>POSSESSOR'S PROTECTIONS
+<pre>
+
+POSSESSOR'S PROTECTIONS
 ├── POSSESSORY ACTIONS
 │   ├── Forcible Entry/Detainer
 │   ├── Unlawful Detainer
@@ -10406,7 +10422,9 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 #### Possession in Criminal Law
 
 **Crimes of Possession:**
-<pre>POSSESSION OFFENSES
+<pre>
+
+POSSESSION OFFENSES
 ├── CONTRABAND
 │   ├── Narcotics
 │   ├── Weapons
@@ -10434,7 +10452,9 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Sales and Ownership Transfer
 
-<pre>COMMERCIAL OWNERSHIP TRANSFER
+<pre>
+
+COMMERCIAL OWNERSHIP TRANSFER
 ├── SALE OF GOODS
 │   ├── Title passage
 │   ├── Risk transfer
@@ -10466,7 +10486,9 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Security Interests
 
-<pre>SECURITY ARRANGEMENTS
+<pre>
+
+SECURITY ARRANGEMENTS
 ├── PLEDGE
 │   └── Possession to creditor
 │
@@ -10497,7 +10519,9 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Requirements
 
-<pre>ADVERSE POSSESSION ELEMENTS
+<pre>
+
+ADVERSE POSSESSION ELEMENTS
 ├── ACTUAL POSSESSION
 │   └── Physical occupation
 │
@@ -10530,7 +10554,8 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Types of Bailment
 
-<pre>BAILMENT CLASSIFICATION
+<pre>
+BAILMENT CLASSIFICATION
 ├── BY BENEFIT
 │   ├── Bailor's benefit (Gratuitous)
 │   ├── Bailee's benefit (Borrowing)
@@ -10554,7 +10579,8 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Separation of Interests
 
-<pre>TRUST STRUCTURE
+<pre>
+TRUST STRUCTURE
 ├── LEGAL OWNERSHIP
 │   └── Trustee holds
 │
@@ -10578,7 +10604,8 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Ownership vs License
 
-<pre>DIGITAL PROPERTY ISSUES
+<pre>
+DIGITAL PROPERTY ISSUES
 ├── SOFTWARE
 │   ├── License not sale
 │   ├── No true ownership
@@ -10611,7 +10638,8 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Ownership Without Physical Form
 
-<pre>IP OWNERSHIP/POSSESSION
+<pre>
+IP OWNERSHIP/POSSESSION
 ├── PATENTS
 │   ├── Ownership: Patent holder
 │   ├── Possession: N/A (ideas)
@@ -10635,7 +10663,8 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Disrupted Models
 
-<pre>SHARING ECONOMY MODELS
+<pre>
+SHARING ECONOMY MODELS
 ├── RIDE SHARING
 │   ├── Car ownership: Driver
 │   ├── Possession: Temporary passenger use
@@ -10691,7 +10720,8 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Mixed Systems
 
-<pre>HYBRID APPROACHES
+<pre>
+HYBRID APPROACHES
 ├── SOUTH AFRICA
 │   ├── Roman-Dutch base
 │   ├── English influence
@@ -10712,7 +10742,8 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Conflict of Laws
 
-<pre>INTERNATIONAL PROPERTY CONFLICTS
+<pre>
+INTERNATIONAL PROPERTY CONFLICTS
 ├── CHOICE OF LAW
 │   ├── Lex situs (Location of property)
 │   ├── Lex domicilii (Domicile)
@@ -10740,7 +10771,8 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Title and Possession Issues
 
-<pre>REAL ESTATE SCENARIOS
+<pre>
+REAL ESTATE SCENARIOS
 ├── PURCHASE PROCESS
 │   ├── Contract: Equitable ownership
 │   ├── Closing: Legal ownership
@@ -10772,7 +10804,8 @@ Ownership and Possession represent two distinct but interrelated concepts in pro
 
 #### Common Scenarios
 
-<pre>PERSONAL PROPERTY SITUATIONS
+<pre>
+PERSONAL PROPERTY SITUATIONS
 ├── FINDING
 │   ├── Finder: Possession
 │   ├── True owner: Ownership
@@ -10832,7 +10865,8 @@ Principle: Hot news doctrine
 #### Parking Space Cases
 
 **Scenario Analysis:**
-<pre>PARKING SPACE RIGHTS
+<pre>
+PARKING SPACE RIGHTS
 ├── OWNERSHIP
 │   ├── Deeded spaces
 │   ├── Condominium rights
@@ -10865,7 +10899,8 @@ Principle: Hot news doctrine
 
 #### Autonomous Property
 
-<pre>AUTONOMOUS SYSTEMS
+<pre>
+AUTONOMOUS SYSTEMS
 ├── SELF-DRIVING VEHICLES
 │   ├── Ownership: Traditional
 │   ├── Possession: Who controls?
@@ -10897,7 +10932,8 @@ Principle: Hot news doctrine
 
 #### Nature's Rights
 
-<pre>ENVIRONMENTAL OWNERSHIP
+<pre>
+ENVIRONMENTAL OWNERSHIP
 ├── RIGHTS OF NATURE
 │   ├── Rivers as persons
 │   ├── Forest ownership
@@ -11105,7 +11141,6 @@ The dance between ownership and possession continues, each concept defining and 
 
 **Document Version:** 1.0  
 **Last Updated:** January 2025
-
 
 
 `;
