@@ -2529,7 +2529,7 @@ The experiences of India and Nepal demonstrate that international law's domestic
 
 The challenge ahead lies in developing approaches that honor international commitments while addressing legitimate domestic concerns, that promote international cooperation while preserving democratic accountability, and that leverage international law for development while maintaining policy autonomy. Success in meeting these challenges will require not just legal expertise but also political wisdom, institutional innovation, and sustained commitment to both international cooperation and domestic welfare.
 `;
-window.markdown10Meta = { name: "person,...", 
+window.markdown10Meta = { name: "standi, int.law,...", 
 
   emoji: "📄" };
 
