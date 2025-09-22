@@ -11109,9 +11109,10 @@ The dance between ownership and possession continues, each concept defining and 
 
 
 `;
-window.markdown9Meta = { name: "person, EJ,execution,burden,ownership,", 
+window.markdown9Meta = { name: "person, EJ,execution,burden,ownership", 
 
   emoji: "📄" };
+
 
 
 
