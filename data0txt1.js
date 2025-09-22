@@ -1,5 +1,9 @@
 // data0txt1.js
 window.txt1Content = `
+for markdown content containing backticks- find and replace.
+find:\`\`\`.*?\n\s*([\s\S]*?)\`\`\`
+replace:<pre>$1</pre>
+
 TABLE OF CONTENTS -
 Sanskrit poem-कमलम् विकसति...
 Civil Law - Plain Text Sample 2
