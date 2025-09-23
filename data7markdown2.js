@@ -344,6 +344,6 @@ window.markdown2Content = `
 | ३. | समाधानका उपाय/सुझाव (Solution of Problems) | 10 |
 | | जम्मा | 20 |
 `;
-window.markdown2Meta = { name: "djsyllablesboth2080", 
+window.markdown2Meta = { name: "2. djsyllablesboth2080", 
 
   emoji: "📄" };

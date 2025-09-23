@@ -3197,7 +3197,7 @@ The journey toward effective decentralized justice is complex and ongoing. It re
 > coexistence and human flourishing.
 > </pre>
 `;
-window.markdown7Meta = { name: "jurisprudence+", 
+window.markdown7Meta = { name: "7.jurisprudence+", 
 
   emoji: "📄" };
 

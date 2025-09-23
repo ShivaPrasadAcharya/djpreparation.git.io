@@ -968,7 +968,7 @@ The procedural/substantive distinction in jurisdiction is:
 
 Modern understanding recognizes that **jurisdiction is a substantive allocation of power** dressed in procedural clothing. The forum is often the substance, making jurisdictional rules among the most important "substantive" law despite their "procedural" label. This hybrid character requires sophisticated analysis that transcends formalistic categories to address jurisdiction's real-world impacts on rights, remedies, and justice.
 `;
-window.markdown4Meta = { name: "dj contents-writing style", 
+window.markdown4Meta = { name: "4.dj contents-writing style", 
 
   emoji: "📄" };
 

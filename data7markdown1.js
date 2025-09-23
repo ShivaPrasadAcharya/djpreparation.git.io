@@ -158,7 +158,8 @@ window.markdown1Content = `
 
 `;
 window.markdown1Meta = { 
-  name: "djsyallablesnepali2080,
+  name: "1. djsyallablesnepali2080",
    emoji: "📄"
 
    };
+
