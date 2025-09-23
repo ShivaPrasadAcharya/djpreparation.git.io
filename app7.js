@@ -114,8 +114,8 @@
             }
         }
         files.sort(function(a, b) {
-            var na = parseInt(a.key.replace('md',''), 10);
-            var nb = parseInt(b.key.replace('md',''), 10);
+            var na = parseInt(a.key.replace('md',''), 17);
+            var nb = parseInt(b.key.replace('md',''), 17);
             return na-nb;
         });
         return files;
