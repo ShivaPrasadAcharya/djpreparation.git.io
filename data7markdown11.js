@@ -3333,7 +3333,7 @@ The doctrine's remarkable adaptability is evident in its expansion from private 
 
 
 `;
-window.markdown11Meta = { name: "witness, strategy,...", 
+window.markdown11Meta = { name: "witness, strategy, estopel...", 
 
   emoji: "📄" };
 
