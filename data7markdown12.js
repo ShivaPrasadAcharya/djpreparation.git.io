@@ -2548,7 +2548,7 @@ The future of marriage law will be shaped by how we navigate these philosophical
 
 Ultimately, the philosophical examination of marriage reveals law's role in constituting our most intimate relationships while being constituted by them in return. This recursive relationship ensures that marriage will remain central to legal philosophy, challenging each generation to reconsider fundamental assumptions about love, law, and human flourishing. The diversity of philosophical approaches reflects the diversity of human experience, reminding us that marriage, like law itself, is an ongoing conversation about how we should live together.
 `;
-window.markdown12Meta = { name: "12. divorce, ...", 
+window.markdown12Meta = { name: "12.marriage, divorce, ...", 
 
   emoji: "📄" };
 
