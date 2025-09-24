@@ -5277,7 +5277,7 @@ The future of Rule of Law lies not in final resolution of its paradoxes but in c
 
 In this light, the Rule of Law emerges not as a fixed achievement to be defended but as an ongoing project of human civilization—a project that each generation must undertake anew, adapting enduring principles to novel challenges while maintaining the core commitment to governance through law rather than arbitrary power. This project remains as vital today as ever, even as—perhaps especially as—its forms and meanings continue to evolve in response to humanity's changing needs and circumstances.
 `;
-window.markdown12Meta = { name: "12.marriage, divorce, ...", 
+window.markdown12Meta = { name: "12.marriage, divorce, rol, religion, sociology of law, ...", 
 
   emoji: "📄" };
 
