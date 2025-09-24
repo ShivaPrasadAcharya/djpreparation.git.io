@@ -4,6 +4,7 @@ var data3Links = `ID,Categry,Subject,Remark,Link
 101,Handwritten Notes1,Random Notes1,pdf,DOCS/DJWrittenNotes1.pdf
 102,Handwritten Notes2,Random Notes2,pdf,DOCS/DJWrittenNotes2.pdf
 103,Handwritten Notes3,Random Notes3,pdf,DOCS/DJWrittenNotes3.pdf
+104,Handwritten Notes4,Random Notes4,pdf,DOCS/DJWrittenNotes4.pdf
 200,Nyayik Awaj,Content/topic,pdf,DOCS/nyayikawajcontent.pdf
 01,dj ppt, civillaw, pdf, DOCS/B A 1 civil law.pdf
 02,dj ppt, strategic plan, pdf, DOCS/A E 2 Strategic Plan.pdf
