@@ -3,7 +3,7 @@ var data3Links = `ID,Categry,Subject,Remark,Link
 100,syllables,DJ syllables,pdf,DOCS/districtjudgesyllables.pdf
 101,Handwritten Notes1,DJ Notes1,pdf,DOCS/DJWrittenNotes1.pdf
 102,Handwritten Notes2,DJ Notes2,pdf,DOCS/DJWrittenNotes2.pdf
-011,Nyayik Awaj,Content/topic,pdf,DOCS/nyayikawajcontent.pdf
+200,Nyayik Awaj,Content/topic,pdf,DOCS/nyayikawajcontent.pdf
 01,dj ppt, civillaw, pdf, DOCS/B A 1 civil law.pdf
 02,dj ppt, strategic plan, pdf, DOCS/A E 2 Strategic Plan.pdf
 03,dj ppt, Nepalese legal system, pdf, DOCS/A C 1 Nepalese_Legal_System for judges.pdf
