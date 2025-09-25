@@ -1873,8 +1873,1015 @@ Rather than seeking final solutions, we must learn to navigate these puzzles wis
 These unsolved puzzles are not obstacles to justice but the very terrain on which the struggle for justice takes place. They define the human condition under law - forever seeking certainty in uncertainty, permanence in change, and justice in an imperfect world.
 
 The measure of a legal system is not whether it has solved these eternal puzzles but how thoughtfully, fairly, and humanely it continues to engage with them.
+
+# Judicial Ethics and Conduct: Jurisprudence, Principles and Precedents by Indian Supreme Court
+
+## Introduction: The Sacred Trust of Judicial Office
+
+The Indian Supreme Court has developed an extensive and sophisticated jurisprudence on judicial ethics and conduct, recognizing that the legitimacy of the judiciary rests not on force but on moral authority, public confidence, and the integrity of those who occupy judicial office. Through landmark judgments, the Court has articulated that judges are not merely dispute resolvers but constitutional trustees who embody the rule of law and whose conduct, both on and off the bench, must inspire public confidence in the administration of justice.
+
+This jurisprudence has evolved from addressing basic conflicts of interest to confronting complex challenges including judicial accountability versus independence, transparency versus privacy, and the balance between judicial restraint and activism. The Court has crafted principles that go beyond statutory codes, creating a living ethical framework that responds to contemporary challenges while preserving the timeless values of judicial integrity.
+
+Through constitutional interpretation, the adoption of the Bangalore Principles, the Restatement of Values of Judicial Life, and numerous precedents on judicial conduct, the Supreme Court has established that judicial ethics is not merely about avoiding impropriety but about maintaining the highest standards that befit constitutional functionaries in the world's largest democracy.
+
+## Part I: Constitutional and Philosophical Foundations
+
+### The Constitutional Framework
+
+#### Articles and Judicial Conduct
+
+<pre>
+Constitutional Provisions on Judicial Standards:
+
+Article 124 & 217:
+- Appointment of judges
+- "Good behaviour" requirement
+- Removal only through impeachment
+- High threshold for removal
+- Independence with accountability
+
+Article 121 & 211:
+- No discussion in legislature
+- Except on removal motion
+- Protection of judicial independence
+- Conduct not to be discussed
+- Balance with accountability
+
+Article 235:
+- Control over subordinate judiciary
+- High Court's supervisory role
+- Disciplinary jurisdiction
+- Administrative control
+- Ethical oversight
+
+Fundamental Duties (Article 51A):
+- Though for citizens, applicable to judges
+- Uphold Constitution
+- Promote harmony
+- Scientific temper
+- Excellence pursuit
+
+Supreme Court Interpretation:
+
+C. Ravichandran Iyer v. Justice A.M. Bhattacharjee (1995):
+"Judicial office is essentially a public trust. Society is, 
+therefore, entitled to expect that a judge must be a man of 
+high integrity, honesty and required to have moral vigor, 
+ethical firmness and impervious to corrupt or venial influences."
+
+Key Principle Established:
+- Public trust doctrine
+- Higher standards for judges
+- Beyond legal compliance
+- Moral authority essential
+- Social expectations
+</pre>
+
+### Philosophical Underpinnings
+
+#### The Nature of Judicial Office
+
+<pre>
+Theoretical Foundations:
+
+Trustee Theory:
+Supreme Court's View:
+- Judges as constitutional trustees
+- Fiduciary relationship with society
+- Power held in trust
+- Not personal privilege
+- Sacred duty
+
+Leading Case:
+State of Bihar v. Bal Mukund Shah (2000):
+- Judicial office is public trust
+- Personal interest subordinate
+- Institutional integrity paramount
+- Individual vs. institution
+
+Service Theory:
+- Judiciary serves justice
+- Not hierarchical superiority
+- Service to Constitution
+- Democratic accountability
+- Public servants
+
+Independence-Accountability Balance:
+K. Veeraswami v. Union of India (1991):
+- Independence essential
+- But not absolute
+- Accountability mechanisms
+- Internal and external
+- Balanced approach
+
+Moral Authority Theory:
+- Legitimacy from moral standing
+- Not from constitutional position alone
+- Public confidence essential
+- Integrity as foundation
+- Beyond legal compliance
+</pre>
+
+## Part II: The Restatement of Values of Judicial Life
+
+### Adoption and Development
+
+#### The Charter of Judicial Ethics
+
+<pre>
+Evolution of Ethical Code:
+
+1997 Restatement:
+Full Court of Supreme Court adopted
+"Restatement of Values of Judicial Life"
+
+16 Core Values:
+
+1. Justice Delivery:
+"Justice must not merely be done but it must also be seen to be done"
+
+2. Independence:
+"A judge should not allow family, social or other relationships 
+to influence judicial conduct or judgment"
+
+3. Integrity:
+"Integrity is the hallmark of judicial conduct"
+
+4. Propriety:
+"A judge must always be conscious that he is under public gaze"
+
+5. Equality:
+"A judge should be patient, dignified and courteous"
+
+6. Competence and Diligence:
+"A judge should maintain professional competence"
+
+7. Impartiality:
+"A judge should be impartial and free from bias"
+
+8. Personal Conduct:
+"A judge must avoid impropriety in all activities"
+
+9. Financial Probity:
+"A judge must not engage in financial dealings"
+
+10. Conflicts of Interest:
+"A judge should avoid conflicts of interest"
+
+11. Public Statements:
+"A judge should avoid public debate or express views"
+
+12. Gifts and Hospitality:
+"A judge should not accept gifts or hospitality"
+
+13. Association:
+"A judge should avoid association with inappropriate elements"
+
+14. Information Use:
+"A judge must not use office for personal gain"
+
+15. Post-Retirement:
+"A judge should maintain dignity post-retirement"
+
+16. Disclosure:
+"A judge should disclose assets and liabilities"
+
+Supreme Court Application:
+Daya Shankar v. High Court of Allahabad (1987):
+- Values are binding
+- Not mere guidelines
+- Violation affects integrity
+- Disciplinary action possible
+</pre>
+
+### Bangalore Principles Integration
+
+#### International Standards Adoption
+
+<pre>
+Bangalore Principles of Judicial Conduct (2002):
+
+Supreme Court Recognition:
+- India participated in drafting
+- Principles endorsed
+- Integrated with Restatement
+- Universal values recognized
+
+Six Core Values:
+
+1. Independence:
+Judicial independence is prerequisite to rule of law
+
+2. Impartiality:
+Impartiality essential to proper discharge
+
+3. Integrity:
+Integrity essential for public confidence
+
+4. Propriety:
+Propriety ensures confidence in judiciary
+
+5. Equality:
+Equal treatment fundamental
+
+6. Competence and Diligence:
+Competence prerequisite for justice
+
+Implementation in Indian Context:
+High Court of Judicature at Bombay v. Shashikant S. Patil (1997):
+- International standards relevant
+- Bangalore Principles guide
+- Universal values
+- Cultural context considered
+</pre>
+
+## Part III: Recusal and Bias Jurisprudence
+
+### The Duty to Recuse
+
+#### Automatic Disqualification
+
+<pre>
+Recusal Principles:
+
+Pecuniary Interest:
+Dimes v. Grand Junction Canal (1852) adopted
+
+Indian Development:
+A.K. Kraipak v. Union of India (1969):
+- Slightest pecuniary interest disqualifies
+- No de minimis exception
+- Automatic disqualification
+- Actual bias irrelevant
+
+Personal Interest:
+J. Mohapatra v. State of Orissa (1984):
+- Family member's interest
+- Property interest
+- Professional relationships
+- Prior involvement
+
+Doctrine of Necessity:
+Election Commission v. Dr. Subramaniam Swamy (1996):
+- When all judges affected
+- Constitutional duty prevails
+- Disclosure required
+- Minimal participation
+
+Real Danger Test:
+Ranjit Thakur v. Union of India (1987):
+- Reasonable apprehension
+- Not actual bias required
+- Objective test
+- Fair-minded observer
+
+Supreme Court's Own Practice:
+NJAC Case (2015):
+- Judges recused when personal interest
+- Transparency in recusal
+- No reasons required traditionally
+- Recent trend toward disclosure
+</pre>
+
+### Bias Categories
+
+#### Types and Tests
+
+<pre>
+Bias Jurisprudence:
+
+Actual Bias:
+- Proved partiality
+- Rare to establish
+- Direct evidence needed
+- Presumption against
+
+Apparent Bias:
+Manak Lal v. Dr. Prem Chand (1957):
+- Reasonable apprehension sufficient
+- Objective test applied
+- Real likelihood
+- Not mere suspicion
+
+Categories Recognized:
+
+1. Pecuniary Bias:
+- Any financial interest
+- However small
+- Direct or indirect
+- Automatic disqualification
+
+2. Subject Matter Bias:
+- Prior involvement
+- Predetermined views
+- Public statements
+- Advisory opinions
+
+3. Personal Bias:
+- Relationship with party
+- Animosity
+- Friendship
+- Family connections
+
+4. Institutional Bias:
+- Departmental interest
+- Institutional loyalty
+- Policy preferences
+- Systemic issues
+
+Leading Precedent:
+State of Punjab v. Davinder Pal Singh Bhullar (2011):
+- Recusal is discretion
+- But guided by principles
+- Frivolous requests rejected
+- Balance required
+</pre>
+
+## Part IV: Judicial Conduct On and Off Bench
+
+### On-Bench Conduct
+
+#### Courtroom Demeanor
+
+<pre>
+Standards for Judicial Behavior:
+
+Judicial Temperament:
+In Re: Vijayalakshmi (2013):
+Required Qualities:
+- Patience
+- Dignity
+- Courtesy
+- Firmness without harshness
+- Authority without arrogance
+
+Prohibited Conduct:
+- Losing temper
+- Making personal remarks
+- Showing prejudice
+- Discriminatory behavior
+- Undignified language
+
+Language and Expression:
+State of Maharashtra v. Krishnaji Dattatraya (1999):
+- Temperate language
+- No harsh criticism unnecessarily
+- Respectful to counsel
+- Measured observations
+- Judicial restraint
+
+Dealing with Lawyers:
+Bar Council of Maharashtra v. M.V. Dabholkar (1975):
+- Mutual respect essential
+- Professional relationship
+- No favoritism
+- Equal treatment
+- Maintain distance
+
+Dealing with Litigants:
+Amar Pal Singh v. State of U.P. (2012):
+- Compassionate approach
+- Especially vulnerable groups
+- Language simplification
+- Cultural sensitivity
+- Access to justice
+
+Media in Court:
+Naresh Shridhar Mirajkar v. State of Maharashtra (1966):
+- Open court principle
+- But order maintenance
+- No grandstanding
+- Measured statements
+- Institutional dignity
+</pre>
+
+### Off-Bench Conduct
+
+#### Private Life Standards
+
+<pre>
+Personal Conduct Requirements:
+
+Social Behavior:
+C. Ravichandran Iyer v. Justice A.M. Bhattacharjee (1995):
+"A judge's conduct must always be above reproach"
+
+Standards:
+- No conduct bringing disrepute
+- Social interactions careful
+- Club memberships appropriate
+- Political neutrality
+- Religious activities balanced
+
+Financial Dealings:
+Tarak Singh v. Jyoti Basu (2005):
+Prohibited:
+- Speculative investments
+- Business activities
+- Borrowing/lending carelessly
+- Accepting benefits
+- Using influence
+
+Permitted:
+- Normal banking
+- Government securities
+- Mutual funds
+- Life insurance
+- Family property
+
+Social Media Conduct:
+Recent Development:
+- Careful social media use
+- No political comments
+- No case discussions
+- Maintain dignity
+- Privacy settings
+
+Public Speaking:
+S.P. Gupta v. Union of India (1981):
+- Limited to legal education
+- No political speeches
+- No controversial topics
+- Academic freedom balanced
+- Institutional voice
+
+Family Members:
+Justice C.S. Karnan Case (2017):
+- Family conduct matters
+- Spouse's activities relevant
+- Children's behavior
+- Business dealings scrutiny
+- Influence peddling prevention
+</pre>
+
+## Part V: Accountability Mechanisms
+
+### Judicial Accountability
+
+#### Internal Mechanisms
+
+<pre>
+In-House Procedure:
+
+1997 Resolution:
+Chief Justice of India's initiative
+
+Three-Judge Committee:
+- CJI and two senior judges
+- Preliminary inquiry
+- Fact verification
+- Advisory role
+- Recommendation to CJI
+
+Process:
+1. Complaint received
+2. Initial scrutiny
+3. Committee examination
+4. Judge's response
+5. Finding and recommendation
+6. CJI action
+
+Powers:
+- Advisory
+- Transfer recommendation
+- Warning/advisement
+- Impeachment initiation
+- No direct punishment
+
+Limitations:
+- No statutory backing
+- Confidential process
+- Limited transparency
+- Self-regulation
+- Effectiveness questioned
+
+Supreme Court View:
+C. Ravichandran Iyer v. Justice A.M. Bhattacharjee (1995):
+- In-house procedure legitimate
+- First tier accountability
+- Preserves independence
+- Peer review appropriate
+</pre>
+
+### Impeachment Process
+
+#### Constitutional Removal
+
+<pre>
+Impeachment Procedure:
+
+Constitutional Provision:
+Article 124(4) & (5) - Supreme Court
+Article 218 - High Courts
+
+Grounds:
+"Proved misbehaviour or incapacity"
+
+Process:
+1. Motion in Parliament
+2. 100 MPs (Lok Sabha) or 50 MPs (Rajya Sabha)
+3. Speaker/Chairman admits
+4. Three-member inquiry committee
+5. Detailed investigation
+6. Report to Parliament
+7. Both Houses pass (special majority)
+8. President removes
+
+Standards Required:
+Sarojini Ramaswami Case (1992):
+- Proved misbehaviour
+- High standard of proof
+- Gross misconduct
+- Not mere error
+- Willful wrongdoing
+
+Recent Cases:
+Justice C.S. Karnan (2017):
+- Contempt proceedings
+- Mental health questions
+- Unprecedented situation
+- Constitutional crisis
+
+Justice Dipak Misra (2018):
+- Impeachment motion
+- Not admitted
+- Political motivations alleged
+- Independence concerns
+</pre>
+
+## Part VI: Asset Disclosure and Transparency
+
+### RTI and Judicial Transparency
+
+#### Balancing Transparency and Independence
+
+<pre>
+Asset Declaration:
+
+Evolution:
+1997 Resolution:
+- Voluntary disclosure
+- To Chief Justice
+- Not public initially
+
+2009 Resolution:
+Delhi High Court direction
+Supreme Court compliance
+
+Current Position:
+- Public disclosure
+- On court websites
+- Annual updates
+- Spouse and dependents
+- Format standardized
+
+RTI Applicability:
+
+Central Public Information Officer v. Subhash Chandra Agarwal (2019):
+Supreme Court Held:
+- CJI office under RTI
+- Transparency and accountability
+- But independence protected
+- Judicial function exempt
+- Administrative matters covered
+
+Balancing Test:
+- Public interest
+- Judicial independence
+- Personal privacy
+- Institutional integrity
+- Case-by-case approach
+
+Information Exempt:
+- Judicial deliberations
+- Confidential communications
+- Personal information (limited)
+- Security-related
+- Sub-judice matters
+</pre>
+
+## Part VII: Post-Retirement Conduct
+
+### The Cooling-Off Debate
+
+#### Post-Retirement Appointments
+
+<pre>
+Post-Retirement Ethics:
+
+Current Situation:
+No statutory cooling-off period
+
+Practice:
+- Tribunal appointments common
+- Commission memberships
+- Arbitrator roles
+- Government appointments
+- Advisory positions
+
+Supreme Court Observations:
+
+Union of India v. R. Gandhi (2010):
+- Post-retirement benefits concern
+- Independence affected
+- Perception matters
+- Reform needed
+- Self-restraint urged
+
+Lok Prahari v. Union of India (2018):
+- Cooling-off period suggested
+- Two years recommended
+- Voluntary restraint meanwhile
+- Institutional integrity
+- Public confidence
+
+Arguments For Restriction:
+- Pre-retirement influence
+- Perception of bias
+- Institutional independence
+- Public confidence
+- International practice
+
+Arguments Against:
+- Expertise utilization
+- Constitutional positions
+- Personal freedom
+- No proven bias
+- Valuable experience
+
+Recent Developments:
+- Self-imposed restraints
+- Selective acceptance
+- Disclosure norms
+- Public scrutiny
+- Ongoing debate
+</pre>
+
+## Part VIII: Judicial Discipline Cases
+
+### Landmark Disciplinary Proceedings
+
+#### Precedent-Setting Cases
+
+<pre>
+Significant Cases:
+
+Justice Ramaswami Case (1991-93):
+- First impeachment proceedings
+- Financial irregularities alleged
+- Acquitted by Parliament
+- Process established
+- Standards discussed
+
+Justice V.R. Krishna Iyer Matter:
+- Post-retirement conduct
+- Political statements
+- No action taken
+- Debate initiated
+- Boundaries unclear
+
+Justice Shamit Mukherjee (2002):
+- Inappropriate conduct
+- Voluntary resignation
+- In-house procedure worked
+- Peer pressure effective
+- Dignity preserved
+
+Justice Soumitra Sen (2011):
+- Impeachment proceedings
+- Financial misappropriation
+- Resigned before removal
+- Process validated
+- Accountability demonstrated
+
+Justice C.S. Karnan (2017):
+Unprecedented Action:
+- Contempt proceedings by SC
+- Sitting High Court judge
+- Six-month imprisonment
+- Mental health evaluated
+- Constitutional questions
+
+Implications:
+- Judicial accountability real
+- Contempt power available
+- Peer review possible
+- Independence maintained
+- Deterrent effect
+
+Justice Shukla Case (2017):
+Medical College Bribery Scandal:
+- CBI investigation
+- In-house inquiry
+- Resigned eventually
+- Corruption addressed
+- System response
+</pre>
+
+## Part IX: Contemporary Challenges
+
+### Social Media and Technology
+
+#### Digital Age Ethics
+
+<pre>
+Modern Challenges:
+
+Social Media Presence:
+Guidelines Needed:
+- Personal accounts management
+- Opinion expression limits
+- Political neutrality
+- Case commentary prohibited
+- Privacy vs. transparency
+
+Issues:
+- Facebook posts
+- Twitter activity
+- WhatsApp forwards
+- Instagram presence
+- LinkedIn profiles
+
+Technological Challenges:
+- Virtual hearings conduct
+- Online interactions
+- Digital evidence handling
+- Cyber security
+- Data protection
+
+Best Practices Emerging:
+- Institutional accounts preferred
+- Personal restraint
+- Professional use only
+- Security protocols
+- Training programs
+</pre>
+
+### Political Pressures
+
+#### Maintaining Independence
+
+<pre>
+Contemporary Pressures:
+
+Post-Truth Era:
+- Media trials
+- Social media campaigns
+- Political attacks
+- Fake news
+- Reputation management
+
+Responses Required:
+- Institutional support
+- Collective response
+- Individual restraint
+- Legal remedies
+- Public communication
+
+Judicial Activism Debate:
+- Overreach allegations
+- Political confrontation
+- PIL misuse
+- Policy making charges
+- Restraint calls
+
+Balance Needed:
+- Constitutional duty
+- Political neutrality
+- Institutional limits
+- Democratic respect
+- Rule of law
+</pre>
+
+## Part X: International Best Practices
+
+### Comparative Perspectives
+
+#### Global Standards
+
+<pre>
+International Models:
+
+United Kingdom:
+- Judicial Appointments Commission
+- Guide to Judicial Conduct
+- Ombudsman system
+- Transparent process
+- Lay participation
+
+United States:
+- Code of Conduct
+- Judicial Conference
+- Ethics opinions
+- Financial disclosure
+- Recusal practice
+
+Canada:
+- Judicial Council
+- Ethical Principles
+- Public complaints
+- Inquiry committees
+- Educational programs
+
+Commonwealth Practice:
+- Latimer House Principles
+- Judicial integrity groups
+- Peer review systems
+- Training emphasis
+- Regional cooperation
+
+Lessons for India:
+- Statutory framework needed
+- Transparency increase
+- Training institutionalization
+- Public participation
+- Continuous education
+</pre>
+
+## Part XI: Reform Proposals
+
+### Judicial Standards and Accountability Bill
+
+#### Legislative Attempts
+
+<pre>
+Reform Initiatives:
+
+2010 Bill:
+Proposed Framework:
+- National Judicial Oversight Committee
+- Scrutiny panels
+- Investigation mechanism
+- Minor penalties power
+- Transparency provisions
+
+Opposition:
+- Independence concerns
+- Executive interference
+- Judicial resistance
+- Constitutional issues
+- Withdrawn eventually
+
+Current Proposals:
+- In-house strengthening
+- Statutory backing
+- Transparency increase
+- Training mandatory
+- Ethics committee permanent
+
+Consensus Points:
+- Standards needed
+- Accountability essential
+- Independence paramount
+- Balance required
+- Reform inevitable
+</pre>
+
+## Part XII: Principles Synthesized
+
+### Core Ethical Principles
+
+#### Supreme Court's Framework
+
+<pre>
+Fundamental Principles Established:
+
+1. Independence:
+"Cornerstone of judicial ethics"
+- Decisional independence
+- Institutional independence
+- Personal independence
+- Financial independence
+- Political neutrality
+
+2. Impartiality:
+"Justice must be blind"
+- No predetermined views
+- Equal treatment
+- Open mind
+- Bias elimination
+- Fair hearing
+
+3. Integrity:
+"Beyond reproach standard"
+- Moral uprightness
+- Honest conduct
+- Incorruptibility
+- Truthfulness
+- Reliability
+
+4. Propriety:
+"Caesar's wife standard"
+- Appearance matters
+- Public confidence
+- Dignified behavior
+- Appropriate associations
+- Social responsibility
+
+5. Equality:
+"Equal justice under law"
+- Non-discrimination
+- Access to justice
+- Respectful treatment
+- Cultural sensitivity
+- Inclusive approach
+
+6. Competence:
+"Professional excellence"
+- Legal knowledge
+- Skill development
+- Efficient disposal
+- Technology adaptation
+- Continuous learning
+
+7. Diligence:
+"Duty to dispose"
+- Timely justice
+- Hard work
+- Preparation thorough
+- Punctuality
+- Dedication
+
+8. Accountability:
+"Power with responsibility"
+- Answerable conduct
+- Transparency
+- Mistake acknowledgment
+- Public trust
+- Democratic values
+
+9. Humility:
+"Service not power"
+- No arrogance
+- Approachability
+- Learning attitude
+- Mistake acceptance
+- Human touch
+
+10. Confidentiality:
+"Judicial deliberations sacred"
+- Secrecy maintenance
+- Information protection
+- Privilege respect
+- Trust preservation
+- Professional ethics
+</pre>
+
+## Conclusion: The Continuing Evolution
+
+### The Living Ethics of Indian Judiciary
+
+The Supreme Court's jurisprudence on judicial ethics represents a continuous journey toward perfection rather than a fixed destination. Through constitutional interpretation, adoption of international principles, and response to contemporary challenges, the Court has created a comprehensive ethical framework that goes beyond black-letter law to embrace the spirit of judicial service.
+
+### Key Achievements
+
+1. **Philosophical Foundation**: Established judicial office as public trust with fiduciary obligations
+2. **Comprehensive Framework**: Integrated constitutional values, Restatement, and Bangalore Principles
+3. **Accountability Mechanisms**: Developed in-house procedures while preserving independence
+4. **Transparency Advances**: Asset disclosure, RTI applicability with balance
+5. **Precedential Guidance**: Created body of cases defining standards
+
+### Ongoing Challenges
+
+1. **Legislative Vacuum**: No comprehensive statutory framework
+2. **Enforcement Gaps**: Limited disciplinary mechanisms short of impeachment
+3. **Transparency Balance**: Independence vs. accountability tension
+4. **Modern Challenges**: Social media, technology, post-truth era
+5. **Post-Retirement**: No cooling-off period, appointment concerns
+
+### Evolutionary Trends
+
+The jurisprudence shows movement toward:
+- Greater transparency while preserving independence
+- Enhanced accountability with peer review
+- International standard adoption with Indian context
+- Technological adaptation with ethical boundaries
+- Public confidence building through conduct standards
+
+### Future Directions
+
+The Supreme Court's ethical jurisprudence will likely evolve to address:
+- Digital age challenges and virtual justice
+- Artificial intelligence in judicial process
+- Global best practices integration
+- Public participation in accountability
+- Post-pandemic court functioning
+- Social media regulations
+- Mental health and judicial stress
+
+### The Eternal Vigil
+
+As the Supreme Court itself has observed, judicial ethics is not a destination but a journey, requiring eternal vigilance, continuous self-reflection, and unwavering commitment to the constitutional ideals of justice, liberty, equality, and fraternity. The ethical standards for judges must remain higher than for others because, as constitutional trustees, judges embody the rule of law itself.
+
+### Final Reflection
+
+The Supreme Court's jurisprudence on judicial ethics demonstrates that in a constitutional democracy, judicial independence and accountability are not contradictory but complementary values. The ethical framework developed ensures that judges remain independent in decision-making while accountable in conduct, powerful in protecting rights while humble in service, respected for office while earning respect through character.
+
+This living jurisprudence ensures that the Indian judiciary remains worthy of the profound trust reposed in it by the Constitution and the people of India, maintaining its position as the guardian of constitutional values and the last resort for justice in the world's largest democracy.
+
+
 `;
-window.markdown14Meta = { name: "14. legalpuzzles, unsolved problems", 
+window.markdown14Meta = { name: "14. legalpuzzles, unsolved problems, conduct", 
 
   emoji: "📄" };
 
