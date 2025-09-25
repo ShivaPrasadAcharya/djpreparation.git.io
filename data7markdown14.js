@@ -1,5 +1,5 @@
-// data7markdown13.js
-window.markdown13Content = `
+// data7markdown14.js
+window.markdown14Content = `
 # Unsolved Legal Puzzles and Problems: The Enduring Mysteries of Jurisprudence
 
 ## Introduction: The Perpetual Challenges of Law
@@ -1874,7 +1874,7 @@ These unsolved puzzles are not obstacles to justice but the very terrain on whic
 
 The measure of a legal system is not whether it has solved these eternal puzzles but how thoughtfully, fairly, and humanely it continues to engage with them.
 `;
-window.markdown13Meta = { name: "13. religion,sociology of law", 
+window.markdown14Meta = { name: "14. legalpuzzles, unsolved problems", 
 
   emoji: "📄" };
 
