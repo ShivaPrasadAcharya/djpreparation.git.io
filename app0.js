@@ -132,7 +132,7 @@
         mdRibbon.style.display = 'inline-block';
         mdRibbon.style.position = 'relative';
         mdRibbon.style.marginLeft = '8px';
-        mdRibbon.innerHTML = '<button class="md-ribbon-btn" style="font-weight:bold;cursor:pointer;padding:10px 20px;border-radius:25px;border:none;background:#f0f2f5;">NoteY ▼</button>';
+        mdRibbon.innerHTML = '<button class="md-ribbon-btn" style="font-weight:bold;cursor:pointer;padding:10px 20px;border-radius:25px;border:none;background:#f0f2f5;">NoteZ▼</button>';
         var mdSubmenu = document.createElement('div');
         mdSubmenu.style.display = 'none';
         mdSubmenu.style.position = 'absolute';

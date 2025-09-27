@@ -10,8 +10,6 @@ var data5Url1 = `SN,subject,description,shorturl,longurl
 9,git-NoteY2,Main Content 2-md,Markdown2,https://github.com/ShivaPrasadAcharya/djpreparation.git.io/edit/main/data7markdown2.js
 10,git-NoteX1,Main Content 1-html,HTML1,https://github.com/ShivaPrasadAcharya/djpreparation.git.io/edit/main/data8html1.js
 11,git-NoteX2,Main Content 2-html,HTML2,https://github.com/ShivaPrasadAcharya/djpreparation.git.io/edit/main/data8html2.js
-12,git-NoteZ1,Main Content 1-html,TXT1,https://github.com/ShivaPrasadAcharya/djpreparation.git.io/edit/main/data0markdown1.js
-13,git-NoteZ2,Main Content 2-html,TXT2,https://github.com/ShivaPrasadAcharya/djpreparation.git.io/edit/main/data0markdown2.js
 14,git-Link,Video1,videoslinks,https://github.com/ShivaPrasadAcharya/djpreparation.git.io/edit/main/data9Videos1.js
 15,git-Link,Video2,wallvideos2,https://github.com/ShivaPrasadAcharya/djpreparation.git.io/edit/main/data9Videos2.js
 16,git-Upload,Upload Content,upload,https://github.com/ShivaPrasadAcharya/djpreparation.git.io/upload/main
