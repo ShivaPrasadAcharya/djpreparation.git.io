@@ -3127,7 +3127,7 @@ The Supreme Court's private international law jurisprudence demonstrates that in
 This sophisticated jurisprudence ensures that as India continues its emergence as a global economic power, its legal system can effectively manage the complex cross-border issues that arise, providing certainty for international commerce while protecting vulnerable parties, respecting foreign legal systems while maintaining Indian public policy, and contributing to the development of international law while preserving its unique legal heritage.
 
 `;
-window.markdown14Meta = { name: "15. pvt int. law,partition", 
+window.markdown15Meta = { name: "15. pvt int. law,partition", 
 
   emoji: "📄" };
 
