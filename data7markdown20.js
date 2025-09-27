@@ -2093,6 +2093,293 @@ only    tion    nance   remedies
 *These notes cover Sections 85-92 with extensive analysis of judicial challenges. Focus on the enforceability problems and definitional gaps for examination preparation.*
 
 
+# DIVORCE PROVISIONS (SECTIONS 93-104) 
+
+## Chapter 3: Relationship Dissolution Related Provisions
+
+### Section 93: Divorce by Mutual Consent
+**दुवैको मञ्जुरीले सम्बन्ध विच्छेद गर्न सक्ने**
+
+Husband and wife may divorce at any time if both parties consent to it.
+
+**Key Features:**
+- No mandatory waiting period
+- No fault requirement
+- Both parties must agree
+- Can be done at any time during marriage
+
+---
+
+### Section 94: Grounds for Husband to Seek Divorce
+**पतिले सम्बन्ध विच्छेद गर्न सक्ने**
+
+A husband may seek divorce without wife's consent in following circumstances:
+
+**(a) Desertion:** Wife living separately without husband's consent for 3+ consecutive years (except when separated after partition or living separately)
+
+**(b) Denial of Maintenance:** Wife refuses to provide food/maintenance or expels husband from home
+
+**(c) Physical/Mental Cruelty:** Wife commits acts causing bodily harm or serious physical/mental suffering through conspiracy or fraud
+
+**(d) Adultery:** Wife maintains sexual relations with another man
+
+---
+
+### Section 95: Grounds for Wife to Seek Divorce
+**पत्नीले सम्बन्ध विच्छेद गर्न सक्ने**
+
+A wife may seek divorce without husband's consent in following circumstances:
+
+**(a) Desertion:** Husband living separately without wife's consent for 3+ consecutive years
+
+**(b) Denial of Maintenance:** Husband refuses to provide food/maintenance or expels wife from home
+
+**(c) Physical/Mental Cruelty:** Husband commits acts causing bodily harm or serious physical/mental suffering
+
+**(d) Bigamy:** Husband marries another woman
+
+**(e) Adultery:** Husband maintains sexual relations with another woman
+
+**(f) Marital Rape:** Husband commits rape against wife
+
+**Note:** Wife has two additional grounds (bigamy and marital rape) not available to husband
+
+---
+
+### Section 96: Filing for Divorce
+**सम्बन्ध विच्छेदको लागि निवेदन दिनु पर्ने**
+
+- Party seeking divorce must file application in concerned District Court
+- Jurisdiction: District Court where parties reside
+
+---
+
+### Section 97: Mandatory Reconciliation Attempt
+**पति पत्नीको मेलमिलाप गराउनु पर्ने**
+
+- Court MUST attempt reconciliation when divorce application is filed
+- Court must counsel and advise both parties to reconcile as much as possible
+- This is a mandatory procedural requirement
+
+---
+
+### Section 98: Granting of Divorce
+**सम्बन्ध विच्छेद गरिदिनु पर्ने**
+
+**Two scenarios:**
+
+1. **Court's Discretion:** If reconciliation fails and court deems divorce more appropriate than maintaining marriage, court shall grant divorce
+
+2. **Mandatory One-Year Rule:** If both parties refuse reconciliation despite court's efforts, court MUST grant divorce after one year from filing date
+
+---
+
+### Section 99: Property Division Before Divorce
+**सम्बन्ध विच्छेद गर्नु अघि अंशबण्डा गर्नु पर्ने**
+
+**(1) Wife's Right to Partition:** When divorce occurs due to husband's fault, wife can demand property partition before divorce
+
+**(2) Fault-Based Grounds:** Divorce on grounds under Section 95(b), (c), (d), (e), or (f) deemed as husband's fault
+
+**(3) Joint Property:** Property in both names or either spouse's name must be partitioned according to law
+
+**(4) Undivided Family Property:** If husband hasn't received his share from father/ancestors, court must:
+- Identify all coparceners
+- Obtain property inventory
+- Separate husband-wife's share
+- Complete partition
+
+**(5) Interim Maintenance:** If partition takes time, court can order monthly maintenance based on husband's property/income until partition complete
+- **Exception:** Wife loses share if she remarries before partition
+
+**(6) No Maintenance Exception:** No share/maintenance if divorce sought under Section 94(b), (c), or (d)
+
+---
+
+### Section 100: Lump Sum or Periodic Maintenance
+**एकमुष्ठ रकम वा खर्च भराई दिन सक्ने**
+
+- Wife can choose lump sum or periodic (monthly/annual) maintenance instead of property share
+- Court determines amount based on husband's property/income
+- **Termination:** Maintenance stops upon wife's remarriage
+
+---
+
+### Section 101: Subsistence Allowance
+**खान लगाउने खर्च भराई दिन सक्ने**
+
+When wife receives no property in partition:
+- Court can order subsistence allowance based on husband's income
+- **Exceptions:**
+  - Stops upon wife's remarriage
+  - Not payable if wife's income exceeds husband's
+
+---
+
+### Section 102: Agreement-Based Settlement
+**सहमति बमोजिम हुने**
+
+- Written agreement between spouses regarding share/maintenance supersedes other provisions
+- **Limitation:** Cannot make agreements against minor children's interests
+
+---
+
+### Section 103: Succession Rights of Divorced Woman
+**अघिल्लो सन्तान वा पतिले सम्पत्ति पाउने**
+
+Upon death of divorced woman:
+- Children inherit her property
+- If no children:
+  - Property from ex-husband returns to him
+  - Other property goes to maternal relatives
+
+---
+
+### Section 104: Limitation Period
+**हदम्याद**
+
+- Three months from date of cause of action or knowledge thereof
+- Applies to all grievances under this chapter
+
+---
+
+## JUDICIAL CHALLENGES IN ADJUDICATING DIVORCE DISPUTES
+
+### 1. **Reconciliation vs. Individual Rights**
+- **Challenge:** Balancing mandatory reconciliation (Section 97) with fundamental right to personal liberty
+- **Dilemma:** How much pressure can court apply for reconciliation without violating individual autonomy?
+- **Time Factor:** One-year mandatory waiting period even when both parties refuse reconciliation
+
+### 2. **Proving Fault-Based Grounds**
+- **Adultery Cases:** 
+  - Difficulty in obtaining concrete evidence
+  - Privacy concerns vs. need for proof
+  - Digital evidence admissibility issues
+  
+- **Mental Cruelty:**
+  - Subjective nature of mental suffering
+  - Lack of clear threshold for "serious" mental harm
+  - Cultural variations in what constitutes cruelty
+
+- **Desertion:**
+  - Proving continuous 3-year separation
+  - Determining "without consent" when no written proof exists
+  - Distinguishing voluntary separation from desertion
+
+### 3. **Gender Disparity Issues**
+- **Unequal Grounds:** Wife has 6 grounds while husband has 4
+- **Marital Rape:** Proving marital rape (Section 95(f)) - sensitive and complex
+- **Bigamy:** Only available to wife despite potential reverse scenarios
+
+### 4. **Property Division Complexities**
+- **Joint Family Property:**
+  - Identifying all coparceners
+  - Valuing inherited vs. self-acquired property
+  - Dealing with undisclosed assets
+  
+- **Timing Issues:**
+  - Delay in partition affecting divorce decree
+  - Managing interim maintenance during lengthy partition
+
+- **Hidden Assets:**
+  - Tracing concealed property
+  - International assets and jurisdictional issues
+
+### 5. **Maintenance Determination**
+- **Income Assessment:**
+  - Verifying actual income vs. declared income
+  - Dealing with fluctuating/seasonal income
+  - Self-employed individuals' income calculation
+
+- **Changing Circumstances:**
+  - Post-divorce income changes
+  - Remarriage verification
+  - Cohabitation without formal remarriage
+
+### 6. **Child Custody Integration**
+- Though not explicitly in these sections, judges must consider:
+  - Best interests of children
+  - Visitation rights
+  - Child support separate from spousal maintenance
+
+### 7. **Cultural and Social Pressures**
+- **Social Stigma:** Judges facing community pressure against divorce
+- **Religious Considerations:** Balancing civil law with religious beliefs
+- **Family Interference:** Managing extended family involvement in proceedings
+
+### 8. **Procedural Challenges**
+- **Service of Notice:** Difficulty in serving absent spouses
+- **Ex-Parte Proceedings:** When one party deliberately avoids court
+- **Cross-Border Issues:** Spouses living in different countries
+
+### 9. **Implementation and Enforcement**
+- **Maintenance Recovery:**
+  - No clear enforcement mechanism
+  - Husband absconding or transferring assets
+  - Cross-jurisdictional enforcement
+
+- **Property Transfer:**
+  - Reluctant compliance with partition orders
+  - Third-party claims on property
+
+### 10. **Limitation Period Issues**
+- **Three-Month Limitation:**
+  - Very short period for complex matters
+  - Determining when cause of action arose
+  - Continuing wrongs vs. single incidents
+
+### 11. **Documentation Challenges**
+- **Marriage Registration:** Many marriages unregistered, creating preliminary hurdles
+- **Property Documentation:** Informal property holdings without clear title
+- **Evidence Preservation:** Loss of crucial evidence due to time lapse
+
+### 12. **Emerging Contemporary Issues**
+- **Digital Assets:** Division of cryptocurrency, online businesses
+- **Social Media Evidence:** Admissibility and authentication
+- **International Marriages:** Conflicting laws and forum shopping
+- **Same-Sex Relationships:** Current law doesn't address these
+
+## RECOMMENDATIONS FOR JUDICIAL APPROACH
+
+### Procedural Improvements
+1. Establish specialized family courts with trained judges
+2. Create standard guidelines for maintenance calculation
+3. Develop fast-track procedures for mutual consent divorces
+4. Implement mandatory disclosure of assets with penalties
+
+### Evidence Management
+1. Clear protocols for digital evidence collection
+2. Guidelines for psychological evaluation in cruelty cases
+3. Use of court-appointed investigators for asset tracing
+
+### Alternative Dispute Resolution
+1. Mandatory mediation before adversarial proceedings
+2. Trained family counselors attached to courts
+3. Online dispute resolution for NRN cases
+
+### Training and Sensitization
+1. Regular training on gender sensitivity
+2. Understanding psychological aspects of marital disputes
+3. Financial forensics for property division
+
+### Legislative Recommendations
+1. Gender-neutral provisions for divorce grounds
+2. Clear definition of "mental cruelty"
+3. Detailed maintenance guidelines
+4. Stronger enforcement mechanisms
+
+## CONCLUSION
+
+The divorce provisions in Sections 93-104 represent a significant attempt to balance individual autonomy with family stability. However, judges face numerous challenges in implementation, ranging from evidentiary issues to enforcement problems. The current framework, while providing basic structure, requires judicial creativity and sensitivity to navigate complex social, economic, and emotional dimensions of marital dissolution.
+
+The success of these provisions ultimately depends on:
+- Judicial wisdom in balancing competing interests
+- Efficient court procedures
+- Effective enforcement mechanisms
+- Social evolution in accepting divorce as a legal remedy
+- Legislative updates to address emerging challenges
+
+Courts must strive to ensure that divorce proceedings are not just legally sound but also socially just, economically fair, and emotionally considerate, particularly regarding the welfare of children and economically dependent spouses.
 
 `;
 window.markdown20Meta = { name: "20. ...", 
