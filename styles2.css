@@ -185,6 +185,11 @@
   min-width: 120px;
   max-width: 100%;
 }
+.md-ribbon-dropdown > div {
+  /* Add scroll for long lists, but only if needed */
+  max-height: 340px;
+  overflow-y: auto;
+}
 @media (max-width: 600px) {
   .videos-ribbon-btn, .html-ribbon-btn, .md-ribbon-btn {
     padding: 8px 10px;
@@ -194,6 +199,8 @@
   .html-ribbon-dropdown > div,
   .md-ribbon-dropdown > div {
     min-width: 110px;
+    max-height: 220px;
+    overflow-y: auto;
   }
   .videos-ribbon-dropdown button.files-dropdown-item,
   .html-ribbon-dropdown button.files-dropdown-item,

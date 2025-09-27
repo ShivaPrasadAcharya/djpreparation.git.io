@@ -144,6 +144,11 @@
         mdSubmenu.style.minWidth = '120px';
         mdSubmenu.style.zIndex = '1001';
         mdSubmenu.style.padding = '8px 0';
+        // Add scroll if more than 10 items
+        if (mdFiles.length > 10) {
+            mdSubmenu.style.maxHeight = '340px';
+            mdSubmenu.style.overflowY = 'auto';
+        }
         mdFiles.forEach(function(md) {
             var btn = document.createElement('button');
             btn.className = 'files-dropdown-item';

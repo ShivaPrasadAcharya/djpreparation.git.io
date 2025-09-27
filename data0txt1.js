@@ -1,5 +1,5 @@
-// data0markdown1.js
-window.markdown1Content = `
+// data0txt1.js
+window.txt1Content = `
 for markdown content containing backticks- find and replace.
 find:\`\`\`.*?\n\s*([\s\S]*?)\`\`\`
 replace:<pre>$1</pre>
@@ -24,7 +24,7 @@ Civil Law - Plain Text Sample 2
 श ष स ह
 पठन्तु सर्वे वदन्तु सर्वे वर्णानां माला
 `;
-window.markdown1Meta = {
+window.txt1Meta = {
   name: "संस्कृत वर्णमाला",
   emoji: "📃"
 };
