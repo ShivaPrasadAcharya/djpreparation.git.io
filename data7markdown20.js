@@ -576,8 +576,8 @@ Physical relationship → Child born → Marriage presumed
                 |
         EXCEPTIONS:
             |
-    +-------+-------+-------+-------+
-    |       |       |       |       |
+    +-------+-------+-------+
+    |       |       |       |
    Rape   Incest  Under 20  Polygamy
   74(2)(क) 74(2)(ख) 74(2)(ग)  74(2)(घ)
 </pre>
@@ -1242,16 +1242,6 @@ VALID REGISTERED MARRIAGE
 2. **Short-term**: Create marriage database, coordinate authorities
 3. **Long-term**: Address gender discrimination, recognize diverse relationships
 4. **Constitutional**: Ensure equality and dignity compliance
-
-### **Judicial Guidance Needed**
-
-Supreme Court should provide guidelines on:
-- Community custom validation
-- Consent assessment methods
-- Evidence standards
-- Deception disclosure requirements
-- Children's rights prioritization
-- Cultural vs constitutional balance
 
 ---
 
@@ -2057,7 +2047,7 @@ only    tion    nance   remedies
 1. **Unenforceable Mandates**: Love, harmony, respect cannot be compelled
 2. **Subjective Standards**: "Status," "capacity," "general matters" undefined
 3. **Gender Discrimination**: Patriarchal presumptions conflict with Constitution
-4. **Modern Reality Gaps**: Dual careers, remote work, digital transactions ignored
+4. **Modernity Mismatch**: Law assumes traditional marriage, doesn't address contemporary realities
 5. **Limited Remedies**: Most breaches lead only to divorce
 6. **Evidence Problems**: Proving emotional/household matters nearly impossible
 7. **Cultural Conflicts**: Legal rights vs social expectations
@@ -2382,9 +2372,11 @@ The success of these provisions ultimately depends on:
 Courts must strive to ensure that divorce proceedings are not just legally sound but also socially just, economically fair, and emotionally considerate, particularly regarding the welfare of children and economically dependent spouses.
 
 `;
-window.markdown20Meta = { name: "20. ...", 
+window.markdown20Meta = { 
+  name: "20. Mortgage Law, Marriage Law, Divorce, Civil Code, Judicial Challenges, Analysis, Recommendations", 
+  emoji: "📄" 
+};
 
-  emoji: "📄" };
 
 
 

@@ -3591,9 +3591,10 @@ The time for reform is not tomorrow—it's today. Every day of delay costs Nepal
 
 
 `;
-window.markdown19Meta = { name: "19. ...", 
-
-  emoji: "📄" };
+window.markdown19Meta = { 
+    name: "evidence act, law interpretation", 
+    emoji: "📄" 
+};
 
 
 
