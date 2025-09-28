@@ -3006,9 +3006,10 @@ Nepal should commence immediate reforms while building consensus for comprehensi
 
 
 `;
-window.markdown17Meta = { name: "17. civil law,  ...", 
-
-  emoji: "📄" };
+window.markdown17Meta = { 
+    name: "Principles of Civil Law, Mortgage Law, Critical Analysis, Dispute Resolution Doctrines, Private International Law, Comparative Analysis, Reform Recommendations, Nepal Civil Code 2074", 
+    emoji: "📄" 
+};
 
 
 
