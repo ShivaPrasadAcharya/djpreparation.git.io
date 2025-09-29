@@ -10,7 +10,43 @@
         var h1Count = 0;
         var inTable = false;
         var tableRows = [];
+        var inCodeBlock = false;
+        var codeBlockType = '';
+        var codeBlockLines = [];
+        var mermaidCount = 0;
+        
         lines.forEach(function(line, idx) {
+            // Check for code block markers
+            var codeBlockMatch = line.match(/^```(\w*)$/);
+            
+            if (codeBlockMatch && !inCodeBlock) {
+                // Starting a code block
+                inCodeBlock = true;
+                codeBlockType = codeBlockMatch[1] || '';
+                codeBlockLines = [];
+                return;
+            } else if (line.match(/^```$/) && inCodeBlock) {
+                // Ending a code block
+                inCodeBlock = false;
+                if (codeBlockType === 'mermaid') {
+                    // Render mermaid diagram
+                    mermaidCount++;
+                    var mermaidId = 'mermaid-' + mermaidCount;
+                    var mermaidCode = codeBlockLines.join('\n');
+                    newLines.push('<div class="mermaid-container" id="' + mermaidId + '" data-mermaid="' + escapeHtml(mermaidCode) + '"></div>');
+                } else {
+                    // Regular code block
+                    newLines.push('<pre><code>' + escapeHtml(codeBlockLines.join('\n')) + '</code></pre>');
+                }
+                codeBlockLines = [];
+                codeBlockType = '';
+                return;
+            } else if (inCodeBlock) {
+                // Inside code block, collect lines
+                codeBlockLines.push(line);
+                return;
+            }
+            
             var m = line.match(/^# (.*)$/);
             // Table detection: line with | and at least one more |, and not code block
             var isTableRow = /^\s*\|(.+\|)+\s*$/.test(line);
@@ -46,6 +82,14 @@
                 newLines.push(line);
             }
         });
+        
+        // Helper: escape HTML
+        function escapeHtml(text) {
+            var div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
         var toc = '';
         if (h1s.length > 0) {
             toc = '<div id="toc-top" class="toc-container"><strong>Table of Contents</strong><ul>' +
@@ -233,6 +277,7 @@
                 currentGlobalIdx = 0;
             }
             mdContent.innerHTML = md.html;
+            renderAllMermaidDiagrams(mdContent);
             var highlights = mdContent.querySelectorAll('.md-search-highlight');
             var localIdx = 0;
             if (allMatches.length > 0) {
@@ -264,6 +309,41 @@
         updateHighlights();
     }
 
+    function renderAllMermaidDiagrams(container) {
+        if (typeof mermaid === 'undefined') {
+            // Load mermaid if not already loaded
+            if (!document.querySelector('script[src*="mermaid"]')) {
+                var script = document.createElement('script');
+                script.src = 'https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.6.1/mermaid.min.js';
+                script.onload = function() {
+                    mermaid.initialize({ startOnLoad: false, theme: 'default' });
+                    renderMermaidDiagrams(container);
+                };
+                document.head.appendChild(script);
+            }
+        } else {
+            renderMermaidDiagrams(container);
+        }
+    }
+
+    function renderMermaidDiagrams(container) {
+        var mermaidContainers = container.querySelectorAll('.mermaid-container');
+        mermaidContainers.forEach(function(div) {
+            var code = div.getAttribute('data-mermaid');
+            if (code) {
+                try {
+                    mermaid.render(div.id + '-svg', code).then(function(result) {
+                        div.innerHTML = result.svg;
+                    }).catch(function(err) {
+                        div.innerHTML = '<pre style="color:red;">Mermaid error: ' + err.message + '</pre>';
+                    });
+                } catch (err) {
+                    div.innerHTML = '<pre style="color:red;">Mermaid error: ' + err.message + '</pre>';
+                }
+            }
+        });
+    }
+
     function showMarkdown(mdKey) {
         var root = document.getElementById('root');
         if (!root) return;
@@ -276,6 +356,7 @@
         var container = root.querySelector('.data-section');
         var mdContent = container.querySelector('.markdown-content');
         mdContent.innerHTML = simpleMarkdownToHtml(content);
+        renderAllMermaidDiagrams(mdContent);
         addMarkdownSearch(container, mdKey);
     }
 
@@ -299,7 +380,7 @@
 
     // Add styles for highlight and responsive search bar
     var style = document.createElement('style');
-    style.textContent = '.md-search-highlight { background: #fff3cd; color: #d35400; border-radius: 3px; padding: 1px 2px; } .md-search-current { background: #ff6b6b !important; color: #fff !important; } .md-html-search-bar .md-search-input { width: 40%; min-width: 120px; max-width: 100%; } @media (max-width: 600px) { .md-html-search-bar .md-search-input { width: 90%; min-width: 60px; } }';
+    style.textContent = '.md-search-highlight { background: #fff3cd; color: #d35400; border-radius: 3px; padding: 1px 2px; } .md-search-current { background: #ff6b6b !important; color: #fff !important; } .md-html-search-bar .md-search-input { width: 40%; min-width: 120px; max-width: 100%; } @media (max-width: 600px) { .md-html-search-bar .md-search-input { width: 90%; min-width: 60px; } } .mermaid-container { margin: 20px 0; padding: 20px; background: #f8f9fa; border-radius: 8px; overflow-x: auto; } .mermaid-container svg { max-width: 100%; height: auto; }';
     document.head.appendChild(style);
 
     // Expose for app8.js
