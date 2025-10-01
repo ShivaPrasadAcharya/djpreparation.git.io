@@ -1866,7 +1866,7 @@ Section ख (Constitutional Law and Its Application in Nepal) forms the backbone
 
 
 `;
-window.markdown26Meta = { name: "26. ...", 
+window.markdown26Meta = { name: "26. core concept of syllables ...", 
 
   emoji: "📄" };
 
