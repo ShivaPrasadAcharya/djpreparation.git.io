@@ -4961,7 +4961,7 @@ Every great District Judge began where you are now---with aspiration, determinat
 
 
 `;
-window.markdown28Meta = { name: "28. dj syllables", 
+window.markdown28Meta = { name: "28. dj syllables commentary", 
 
   emoji: "📄" };
 
