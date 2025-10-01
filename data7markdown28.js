@@ -1,8 +1,8 @@
 // data7markdown28.js
 window.markdown28Content = `
-make comments on the syllables.
+# make comments on the syllables.
 
-Edit
+*Answer*
 
 Comprehensive Study Notes: District Judge Examination Syllabus Analysis
 =======================================================================
@@ -19,7 +19,7 @@ The District Judge examination syllabus represents a rigorous and comprehensive 
 
 ### Overall Framework Decision Tree
 
-,pre>
+<pre>
 
 District Judge Examination (450 marks)
 ├── Written Examination (400 marks)
@@ -49,7 +49,7 @@ District Judge Examination (450 marks)
 
 mermaid
 
-,pre>
+<pre>
 
 graph TD
     A[Paper I - 100 Marks] --> B[Comprehensive Question - 25 marks]
@@ -94,7 +94,7 @@ graph TD
 
 **Critical Topics Hierarchy:**
 
-,pre>
+<pre>
 
 Constitutional Framework
 ├── Fundamental Structure
@@ -132,7 +132,7 @@ Constitutional Framework
 
 **New Dimensions of Justice - Classification Tree:**
 
-,pre>
+<pre>
 
 Justice Paradigms
 ├── Gender Justice
@@ -165,7 +165,7 @@ Justice Paradigms
 
 mermaid
 
-,pre>
+<pre>
 
 graph LR
     A[Law] ---|Interaction| B[Morality]
@@ -196,7 +196,7 @@ graph LR
 
 **Management Framework:**
 
-,pre>
+<pre>
 
 Judicial Administration
 ├── Court Management
@@ -234,7 +234,7 @@ Judicial Administration
 
 ### Content Architecture
 
-,pre>
+<pre>
 
 Civil Law Domain
 ├── Substantive Law (60%)
@@ -270,7 +270,7 @@ Civil Law Domain
 
 1.  **Legal Personality**
 
-,pre>
+<pre>
 
 Persons
 ├── Natural Persons
@@ -308,7 +308,7 @@ Persons
 
 mermaid
 
-,pre>
+<pre>
 
 graph TD
     A[Valid Contract] --> B[Offer]
@@ -330,7 +330,7 @@ graph TD
 
 **Property Classification System:**
 
-,pre>
+<pre>
 
 Property Types
 ├── Movable vs. Immovable
@@ -364,7 +364,7 @@ Property Types
 
 1.  **Intellectual Property Framework**
 
-,pre>
+<pre>
 
 IP Rights
 ├── Patents (20 years)
@@ -390,7 +390,7 @@ IP Rights
 
 mermaid
 
-,pre>
+<pre>
 
 graph TD
     A[Civil Procedure Principles] --> B[Locus Standi]
@@ -438,7 +438,7 @@ graph TD
 
 **Pleadings Framework:**
 
-,pre>
+<pre>
 
 Pleading Process
 ├── Plaint (बिरादपत्र)
@@ -462,7 +462,7 @@ Pleading Process
 
 1.  **Collection & Evaluation**
 
-,pre>
+<pre>
 
 Evidence Types
 ├── Oral Evidence
@@ -488,7 +488,7 @@ Evidence Types
 
 mermaid
 
-,pre>
+<pre>
 
 graph LR
     A[Filing] --> B[Preliminary Hearing]
@@ -522,7 +522,7 @@ graph LR
 
 ### Conceptual Framework
 
-,pre>
+<pre>
 
 Criminal Justice System
 ├── Substantive Criminal Law
@@ -552,7 +552,7 @@ Criminal Justice System
 
 mermaid
 
-,pre>
+<pre>
 
 graph TD
     A[Criminal Justice Principles] --> B[Legality - Nullum crimen]
@@ -574,7 +574,7 @@ graph TD
 
 1.  **Historical Development**
 
-,pre>
+<pre>
 
 Evolution of Nepali Criminal Law
 ├── Pre-Muluki Ain Era
@@ -594,7 +594,7 @@ Evolution of Nepali Criminal Law
     -   Victim impact statements
 2.  **Criminal Liability Framework**
 
-,pre>
+<pre>
 
 Liability Elements
 ├── Actus Reus (Guilty Act)
@@ -622,7 +622,7 @@ Liability Elements
 
 **Offence Classification Tree:**
 
-,pre>
+<pre>
 
 Criminal Offences
 ├── Against State
@@ -671,7 +671,7 @@ Criminal Offences
 
 1.  **Sexual Offences Framework**
 
-,pre>
+<pre>
 
 Sexual Crimes
 ├── Rape
@@ -723,7 +723,7 @@ Sexual Crimes
 
 mermaid
 
-,pre>
+<pre>
 
 graph LR
     A[Placement] --> B[Layering]
@@ -744,7 +744,7 @@ graph LR
 
 **Procedural Framework:**
 
-,pre>
+<pre>
 
 Criminal Procedure Stages
 ├── Pre-Trial
@@ -787,7 +787,7 @@ Criminal Procedure Stages
     -   Obligation to assist court
 2.  **Victim Rights in Criminal Process**
 
-,pre>
+<pre>
 
 Victim Participation
 ├── Right to Information
@@ -821,7 +821,7 @@ Victim Participation
 
 mermaid
 
-,pre>
+<pre>
 
 graph TD
     A[Case Filed] --> B{Withdraw?}
@@ -847,7 +847,7 @@ graph TD
 
 1.  **Burden of Proof Hierarchy**
 
-,pre>
+<pre>
 
 Burden Distribution
 ├── Prosecution
@@ -870,7 +870,7 @@ Burden Distribution
 
 1.  **Witness Examination Process**
 
-,pre>
+<pre>
 
 Examination Stages
 ├── Examination-in-Chief
@@ -910,7 +910,7 @@ Examination Stages
 
 **Punishment Theories Classification:**
 
-,pre>
+<pre>
 
 Theories of Punishment
 ├── Retributive
@@ -930,7 +930,7 @@ Theories of Punishment
 
 mermaid
 
-,pre>
+<pre>
 
 graph TD
     A[Conviction] --> B{Offence Severity}
@@ -972,7 +972,7 @@ graph TD
 
 1.  **Alternative Sanctions**
 
-,pre>
+<pre>
 
 Non-Custodial Options
 ├── Probation
@@ -1027,7 +1027,7 @@ Non-Custodial Options
 
 ### Structure & Approach
 
-,pre>
+<pre>
 
 Paper IV Components
 ├── Part A: Judgment Writing (60 marks)
@@ -1048,7 +1048,7 @@ Paper IV Components
 
 **Judgment Structure Framework:**
 
-,pre>
+<pre>
 
 Judgment Architecture
 ├── 1. Caption/Heading
@@ -1119,7 +1119,7 @@ Judgment Architecture
 
 mermaid
 
-,pre>
+<pre>
 
 graph TD
     A[Identify Applicable Law] --> B[State Legal Principle]
@@ -1166,7 +1166,7 @@ Comprehensive Study Notes: District Judge Examination Syllabus Analysis (Continu
 
 **4\. Operative Part (ठहर) Excellence:**
 
-,pre>
+<pre>
 
 Effective ठहर Components
 ├── Clear Declaration
@@ -1196,7 +1196,7 @@ Effective ठहर Components
 
 **5\. Following Part (मुद्दा फछ्र्यौट) Components:**
 
-,pre>
+<pre>
 
 Following Part Checklist
 ├── Parties' Rights
@@ -1237,7 +1237,7 @@ Following Part Checklist
 
 **Sample Judgment Framework (Civil Case):**
 
-,pre>
+<pre>
 
 IN THE DISTRICT COURT OF [DISTRICT NAME]
 
@@ -1289,7 +1289,7 @@ Date: 2081/...
 
 **Types of Orders Covered:**
 
-,pre>
+<pre>
 
 Order Categories
 ├── Writ Orders (Summary)
@@ -1321,7 +1321,7 @@ Order Categories
 
 **1\. Habeas Corpus Summary Order Format:**
 
-,pre>
+<pre>
 
 SUMMARY ORDER ON HABEAS CORPUS
 
@@ -1363,7 +1363,7 @@ District Judge
 
 **2\. Mandamus (Injunction) Summary Order:**
 
-,pre>
+<pre>
 
 SUMMARY ORDER ON MANDAMUS
 
@@ -1390,7 +1390,7 @@ Effective immediately.
 
 **Purpose:** Case management, issue framing, evidence limitation
 
-,pre>
+<pre>
 
 ORDER ON PRELIMINARY HEARING
 
@@ -1414,7 +1414,7 @@ CASE MANAGEMENT TIMELINE:
 
 **4\. Bail/Remand Order:**
 
-,pre>
+<pre>
 
 ORDER ON BAIL APPLICATION
 
@@ -1452,7 +1452,7 @@ Remand extended for [days] for completion of investigation.
 
 **5\. Evidence Production Order:**
 
-,pre>
+<pre>
 
 ORDER FOR PRODUCTION OF EVIDENCE
 
@@ -1484,7 +1484,7 @@ ORDER:
 
 **Interim Order Template:**
 
-,pre>
+<pre>
 
 INTERIM ORDER
 
@@ -1532,7 +1532,7 @@ This order is subject to modification after hearing respondent.
 
 **Assessment Framework:**
 
-,pre>
+<pre>
 
 Problem Solving Components
 ├── Problem Identification (5 marks)
@@ -1557,7 +1557,7 @@ Problem Solving Components
 
 mermaid
 
-,pre>
+<pre>
 
 graph TD
     A[Read Problem Carefully] --> B[Identify Core Issues]
@@ -1608,7 +1608,7 @@ graph TD
 
 **Analytical Framework:**
 
-,pre>
+<pre>
 
 Multi-Level Analysis
 ├── Legal Analysis
@@ -1666,7 +1666,7 @@ Multi-Level Analysis
 
 **Solution Architecture:**
 
-,pre>
+<pre>
 
 Solution Strategy
 ├── Immediate Measures (0-6 months)
@@ -1788,7 +1788,7 @@ Solution Strategy
 
 **Implementation Roadmap:**
 
-,pre>
+<pre>
 
 Phase 1 (Month 1-2): Immediate Relief
 ├── Judicial orders issued
@@ -1859,7 +1859,7 @@ Phase 4 (Year 2-3): Consolidation
 
 **Overall Preparation Timeline (6 Months):**
 
-,pre>
+<pre>
 
 Month 1-2: Foundation
 ├── Complete reading of all Acts
@@ -1914,7 +1914,7 @@ Month 6: Revision & Fine-tuning
 
 **For 25-Mark Questions:**
 
-,pre>
+<pre>
 
 Structure (Aim for 1000-1200 words)
 ├── Introduction (100 words)
@@ -1936,7 +1936,7 @@ Structure (Aim for 1000-1200 words)
 
 **For 15-Mark Questions:**
 
-,pre>
+<pre>
 
 Structure (Aim for 600-700 words)
 ├── Introduction (80 words)
@@ -1977,7 +1977,7 @@ Structure (Aim for 600-700 words)
 
 **Essential Resources Categorization:**
 
-,pre>
+<pre>
 
 Primary Resources (Must Study)
 ├── All Acts mentioned in syllabus
@@ -2022,7 +2022,7 @@ Supplementary Resources
 
 **Areas to Track:**
 
-,pre>
+<pre>
 
 Legal Current Affairs
 ├── Supreme Court Decisions
@@ -2063,7 +2063,7 @@ Legal Current Affairs
 
 ### Competency Matrix for District Judge
 
-,pre>
+<pre>
 
 Essential Competencies
 ├── Legal Knowledge (40%)
@@ -2122,7 +2122,7 @@ Essential Competencies
 
 **Likely Assessment Areas:**
 
-,pre>
+<pre>
 
 Interview Components
 ├── Personality & Communication
@@ -2287,7 +2287,7 @@ The District Judge examination syllabus reflects a **holistic approach** to judi
 
 **Key Attitudes:**
 
-,pre>
+<pre>
 
 Judicial Excellence
 ├── Continuous Learning
@@ -2372,7 +2372,7 @@ Your success depends on:
 
 **1\. Legislative Updates Post-2074:**
 
-,pre>
+<pre>
 
 Critical Recent Legislation
 ├── National Codes (2074)
@@ -2436,7 +2436,7 @@ Critical Recent Legislation
 
 **Cluster 1: Constitutional & Administrative Law**
 
-,pre>
+<pre>
 
 Connected Study
 ├── Constitutional Law
@@ -2451,7 +2451,7 @@ Connected Study
 
 **Cluster 2: Civil Law Ecosystem**
 
-,pre>
+<pre>
 
 Connected Study
 ├── Substantive Civil Law
@@ -2465,7 +2465,7 @@ Connected Study
 
 **Cluster 3: Criminal Justice System**
 
-,pre>
+<pre>
 
 Connected Study
 ├── Substantive Criminal Law
@@ -2480,7 +2480,7 @@ Connected Study
 
 **Cluster 4: Modern Justice Paradigms**
 
-,pre>
+<pre>
 
 Connected Study
 ├── Restorative Justice
@@ -2567,7 +2567,7 @@ Connected Study
 
 mermaid
 
-,pre>
+<pre>
 
 graph TD
     A[Select Case] --> B[Read Full Judgment]
@@ -2583,7 +2583,7 @@ graph TD
 
 **Case Brief Format:**
 
-,pre>
+<pre>
 
 CASE NAME: [Full citation]
 COURT: [Supreme Court/High Court/District Court]
@@ -2621,7 +2621,7 @@ RELATED CASES:
 
 **Example Case Brief:**
 
-,pre>
+<pre>
 
 CASE: Meera Dhungana & Others v. Government of Nepal
 COURT: Supreme Court of Nepal
@@ -2667,7 +2667,7 @@ RELATED CASES:
 
 **Tagging System for Quick Retrieval:**
 
-,pre>
+<pre>
 
 Tag Categories
 ├── By Subject
@@ -2921,7 +2921,7 @@ Tag Categories
 
 **Technique 2: Evidence Evaluation Framework**
 
-,pre>
+<pre>
 
 Evidence Assessment Structure
 ├── Documentary Evidence
@@ -2972,7 +2972,7 @@ Evidence Assessment Structure
 
 When multiple rights or interests conflict:
 
-,pre>
+<pre>
 
 Balancing Framework
 ├── Identify Competing Interests
@@ -3015,7 +3015,7 @@ Balancing Framework
 
 **1\. Bail Order Template:**
 
-,pre>
+<pre>
 
 ORDER ON BAIL APPLICATION
 
@@ -3063,7 +3063,7 @@ Date: 2081/[X]/[Y]
 
 **2\. Interim Injunction Template:**
 
-,pre>
+<pre>
 
 AD-INTERIM INJUNCTION ORDER
 
@@ -3106,7 +3106,7 @@ Date: 2081/[X]/[Y]
 
 **The 5P Method:**
 
-,pre>
+<pre>
 
 5P Framework
 ├── 1. PERCEIVE (Problem Identification)
@@ -3200,7 +3200,7 @@ Date: 2081/[X]/[Y]
 
 **Root Cause Analysis:**
 
-,pre>
+<pre>
 
 Systemic Failures
 ├── Legal Knowledge Deficit
@@ -3267,7 +3267,7 @@ Systemic Failures
 
 **2\. Fast-Track Mechanism:**
 
-,pre>
+<pre>
 
 Expedited DV Case Flow
 ├── Registration → Bail hearing (24 hours)
@@ -3312,7 +3312,7 @@ Expedited DV Case Flow
 
 **Investigation Protocol:**
 
-,pre>
+<pre>
 
 Mandatory Steps
 ├── Immediate medical examination (< 24 hrs)
@@ -3372,7 +3372,7 @@ Comprehensive Study Notes: District Judge Examination Syllabus Analysis (Continu
 
 **2\. Legal Assistance Enhancement:**
 
-,pre>
+<pre>
 
 Comprehensive Legal Aid Model
 ├── Stage 1: Complaint
@@ -3442,7 +3442,7 @@ Comprehensive Legal Aid Model
 
 **3\. Standard Operating Procedure (SOP):**
 
-,pre>
+<pre>
 
 Inter-Agency SOP for DV Cases
 ├── Hour 0-2: Police Response
@@ -3613,7 +3613,7 @@ Inter-Agency SOP for DV Cases
 
 **A. Phased Rollout:**
 
-,pre>
+<pre>
 
 Implementation Timeline
 ├── Phase 1 (Month 1-3): Quick Wins
@@ -4121,7 +4121,7 @@ As District Judge, you encounter several torture cases. Identify legal issues, a
 
 **Confidence Builders:**
 
-,pre>
+<pre>
 
 Pre-Exam Mindset
 ├── Positive Affirmation
@@ -4355,7 +4355,7 @@ Comprehensive Study Notes: District Judge Examination Syllabus Analysis (Continu
 
 **What This Examination Really Tests:**
 
-,pre>
+<pre>
 
 Beyond Knowledge Assessment
 ├── Intellectual Capacity
@@ -4412,7 +4412,7 @@ Beyond Knowledge Assessment
 
 mermaid
 
-,pre>
+<pre>
 
 graph TD
     A[Preparation Journey] --> B[Depth over Breadth]
@@ -4482,7 +4482,7 @@ Your success in this examination and subsequent role as District Judge will impa
 
 **Your Potential Impact:**
 
-,pre>
+<pre>
 
 One District Judge's Influence
 ├── Direct Impact
@@ -4696,7 +4696,7 @@ One District Judge's Influence
 
 **As You Prepare:**
 
-,pre>
+<pre>
 
 I commit to:
 ├── Diligent Preparation
@@ -4739,7 +4739,7 @@ This District Judge examination syllabus is **comprehensive by design**---it see
 
 ### Your Preparation Roadmap
 
-,pre>
+<pre>
 
 SUCCESS PATHWAY
 ├── Month 1-2: Foundation Building
@@ -4802,7 +4802,7 @@ SUCCESS PATHWAY
 
 **Success Formula:**
 
-,pre>
+<pre>
 
 Success = (Preparation × Practice × Persistence) + (Perspective × Professionalism)
 </pre>
@@ -4948,7 +4948,7 @@ Every great District Judge began where you are now---with aspiration, determinat
 
 ### 📚 End of Comprehensive Study Notes
 
-**Total Content:** 50,000+ words covering all examination aspects
+**Total Content:H** 50,000+ words covering all examination aspects
 
 **May justice guide your preparation, wisdom inform your answers, and success crown your efforts.**
 
@@ -4960,9 +4960,8 @@ Every great District Judge began where you are now---with aspiration, determinat
 
 
 
-
 `;
-window.markdown28Meta = { name: "28. dj syllables commentary", 
+window.markdown28Meta = { name: "28. dj syllables", 
 
   emoji: "📄" };
 
