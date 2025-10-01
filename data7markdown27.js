@@ -1864,7 +1864,7 @@ Section ख (Constitutional Law and Its Application in Nepal) forms the backbone
 **End of Section ख (Constitutional Law) - 15 Marks**
 
 `;
-window.markdown26Meta = { name: "27. ...", 
+window.markdown27Meta = { name: "27. ...", 
 
   emoji: "📄" };
 
