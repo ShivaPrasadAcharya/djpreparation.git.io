@@ -79,6 +79,102 @@ Courts have discretion to impose various conditions suitable to child's circumst
 
 *Source: Criminal Procedure Code 2074 (मुलुकी फौजदारी कार्यविधि संहिता, २०७४) and Criminal Offenses (Sentencing and Execution) Act 2074 (फौजदारी कसूर (सजाय निर्धारण तथा कार्यान्वयन) ऐन, २०७४)*
 
+# Diversion of Juvenile Delinquent by Investigator, Prosecutor and Court
+
+## Legal Framework
+Based on **Children Act, 2075 (2018) - Section 27** (दिशान्तर गर्न सक्ने)
+
+---
+
+## Table: Authority to Grant Diversion
+
+| Authority | Offense Severity | Maximum Compensation Amount | Maximum Fine | Maximum Imprisonment | Legal Reference |
+|-----------|-----------------|----------------------------|--------------|---------------------|----------------|
+| **Investigation Officer (अनुसन्धान अधिकारी)** | Minor offenses | Up to Rs. 5,000 | Up to Rs. 2,000 | Up to 1 month | Section 27(1)(a) |
+| **Government Attorney/Prosecutor (सरकारी वकील)** | Moderate offenses | Up to Rs. 10,000 | Up to Rs. 5,000 | Up to 3 years | Section 27(1)(b) |
+| **Children's Court (बाल अदालत)** | All offenses | Any amount | Any amount | Any imprisonment | Section 27(1)(c) |
+
+---
+
+## Important Restrictions
+
+### Limitation on Court Diversion
+**Section 27(2)**: Despite the provisions of Section 27(1)(c), children cannot be diverted in cases where:
+- The offense carries **imprisonment of 3 years or more**
+
+---
+
+## Conditions for Diversion (Section 28)
+
+The following factors must be considered before granting diversion:
+
+| Sr. No. | Condition | Description |
+|---------|-----------|-------------|
+| 1 | Admission of guilt | The child has admitted to committing the offense |
+| 2 | Consent of parties | Consent obtained from the child, parents (or family members/guardians if parents absent) |
+| 3 | Victim consent | Consent of victim obtained with provisions for victim's restoration |
+| 4 | Assessment factors | Nature of offense, circumstances, severity, child's age, maturity, intellectual level, family environment, harm to victim, and victim restoration |
+
+---
+
+## Diversion Procedures (Section 29)
+
+When granting diversion, one or more of the following procedures may be adopted:
+
+| Procedure | Description | Duration Required? |
+|-----------|-------------|-------------------|
+| **Reconciliation** (क) | Facilitate reconciliation/understanding between child and victim | No |
+| **Remorse** (ख) | Make child realize their mistake | No |
+| **Counseling** (ग) | Provide necessary counseling to child and family | No |
+| **Community Service** (घ) | Send child to community service | Yes |
+| **Institutional Care** (ङ) | Send to institution for care and protection | Yes |
+| **Child Welfare Officer Supervision** (च) | Release under supervision of Child Welfare Officer | Yes |
+| **Family Custody** (छ) | Place in custody of parent/family/guardian | Yes |
+| **Training/Education** (ज) | Participate in training or educational programs | Yes |
+
+**Note**: For procedures (घ), (ङ), (च), (छ), and (ज), a duration/period must be specified [Section 29(2)]
+
+---
+
+## Additional Requirements
+
+### Pre-Diversion Assessment (Section 29(4))
+Before diversion by Investigation Officer or Prosecutor, the following reports must be obtained:
+- **Child psychologist** assessment of physical and mental condition
+- **Child specialist** evaluation
+- **Social worker** study of child's economic, cultural situation and environment
+
+### Monitoring (Section 29(7))
+The authority granting diversion must arrange monitoring through **Probation Officer** to ensure child's continuous participation in diversion process.
+
+### Victim Compensation (Section 29(8))
+When granting diversion, the following may be ordered for victim's loss:
+- Payment of compensation or actual damages to victim
+- Return of property, profit, or materials obtained from offense
+
+---
+
+## Appeal Rights (Section 27(3))
+
+| Diversion by | Appeal to |
+|--------------|-----------|
+| Investigation Officer or Prosecutor | Children's Court (बाल अदालत) |
+| Children's Court | High Court (उच्च अदालत) |
+
+If dissatisfied with diversion order, child or guardian may file appeal.
+
+---
+
+## Effect of Diversion (Section 29(6))
+When a child accused of an offense is diverted:
+- The dispute is **terminated**
+- Formal judicial proceedings are **considered concluded**
+
+---
+
+## Sources
+- **Children Act, 2075 (2018)** - Sections 27, 28, 29
+- **Criminal Procedure Code, 2074 (2017)** - Related provisions
 
 
 `;
