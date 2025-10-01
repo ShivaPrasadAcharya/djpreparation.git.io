@@ -2677,10 +2677,10 @@ To answer such complex questions:
 
 This level of answer demonstrates the analytical sophistication, comprehensive knowledge, critical thinking, and reform vision expected of a District Judge---someone who will not merely apply law mechanically but will be a guardian of constitutional values and agent of justice transformation.
 
-द्वितीय पत्र: देवानी कानून र देवानी कार्यविधि कानून
+# द्वितीय पत्र: देवानी कानून र देवानी कार्यविधि कानून
 ===================================================
 
-MODEL QUESTION PAPER WITH EXEMPLARY ANSWERS
+## MODEL QUESTION PAPER WITH EXEMPLARY ANSWERS
 -------------------------------------------
 
 * * * * *
