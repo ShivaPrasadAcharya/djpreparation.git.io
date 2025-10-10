@@ -5,6 +5,11 @@ var data3Links = `ID,Categry,Subject,Remark,Link
 102,Handwritten Notes2,Random Notes2,pdf,DOCS/DJWrittenNotes2.pdf
 103,Handwritten Notes3,Random Notes3,pdf,DOCS/DJWrittenNotes3.pdf
 104,Handwritten Notes4,Random Notes4,pdf,DOCS/DJWrittenNotes4.pdf
+105,Handwritten Notes5,Random Notes5,pdf,DOCS/DJWrittenNotes5.pdf
+106,Handwritten Notes6,Random Notes5,pdf,DOCS/DJWrittenNotes6.pdf
+107,Handwritten Notes7,Random Notes5,pdf,DOCS/DJWrittenNotes7.pdf
+108,Handwritten Notes8,Random Notes5,pdf,DOCS/DJWrittenNotes8.pdf
+109,Handwritten Notes9,Random Notes5,pdf,DOCS/DJWrittenNotes9.pdf
 200,Nyayik Awaj,Content/topic,pdf,DOCS/nyayikawajcontent.pdf
 01,dj ppt, civillaw, pdf, DOCS/B A 1 civil law.pdf
 02,dj ppt, strategic plan, pdf, DOCS/A E 2 Strategic Plan.pdf
