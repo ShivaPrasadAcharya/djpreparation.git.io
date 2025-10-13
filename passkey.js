@@ -2,10 +2,16 @@
 // This script restricts access to the webpage unless the correct passkey is entered.
 // Usage: Include this script in index.html before any other scripts that should be protected.
 
+
 (function() {
     // Set your passkey here
-    const PASSKEY = '1234'; // Change this to your desired passkey
-    
+    const PASSKEY = '123'; // Change this to your desired passkey (set to null to disable protection)
+
+    // If passkey is null or 'null', open site directly
+    if (PASSKEY === null || PASSKEY === 'null') {
+        return;
+    }
+
     // Check if already authenticated in this session
     if (sessionStorage.getItem('authenticated') === 'true') {
         return;
