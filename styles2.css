@@ -188,7 +188,30 @@
 .md-ribbon-dropdown > div {
   /* Add scroll for long lists, but only if needed */
   max-height: 340px;
-  overflow-y: auto;
+  overflow-y: scroll;
+  direction: rtl;
+}
+
+.md-ribbon-dropdown button.files-dropdown-item {
+  direction: ltr;
+}
+
+/* Scrollbar on left side for NoteY dropdown */
+.md-ribbon-dropdown > div::-webkit-scrollbar {
+  width: 8px;
+}
+
+.md-ribbon-dropdown > div::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.md-ribbon-dropdown > div::-webkit-scrollbar-thumb {
+  background: #b0b0b0;
+  border-radius: 4px;
+}
+
+.md-ribbon-dropdown > div::-webkit-scrollbar-thumb:hover {
+  background: #808080;
 }
 @media (max-width: 600px) {
   .videos-ribbon-btn, .html-ribbon-btn, .md-ribbon-btn {

@@ -188,16 +188,20 @@
         mdSubmenu.style.minWidth = '120px';
         mdSubmenu.style.zIndex = '1001';
         mdSubmenu.style.padding = '8px 0';
+        mdSubmenu.style.display = 'flex';
+        mdSubmenu.style.flexDirection = 'column';
         // Add scroll if more than 10 items
         if (mdFiles.length > 10) {
             mdSubmenu.style.maxHeight = '340px';
-            mdSubmenu.style.overflowY = 'auto';
+            mdSubmenu.style.overflowY = 'scroll';
+            mdSubmenu.style.direction = 'rtl';
         }
         mdFiles.forEach(function(md) {
             var btn = document.createElement('button');
             btn.className = 'files-dropdown-item';
             btn.innerHTML = (md.emoji || '') + md.label;
             btn.type = 'button';
+            btn.style.direction = 'ltr';
             btn.onclick = function(e) {
                 e.stopPropagation();
                 showMarkdown(md.key);
@@ -208,7 +212,7 @@
         mdRibbon.appendChild(mdSubmenu);
         mdRibbon.querySelector('.md-ribbon-btn').addEventListener('click', function(e) {
             e.stopPropagation();
-            mdSubmenu.style.display = (mdSubmenu.style.display === 'block') ? 'none' : 'block';
+            mdSubmenu.style.display = (mdSubmenu.style.display === 'flex') ? 'none' : 'flex';
         });
         mdRibbon.addEventListener('mouseleave', function() {
             mdSubmenu.style.display = 'none';
