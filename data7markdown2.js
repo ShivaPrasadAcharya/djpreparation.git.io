@@ -435,6 +435,6 @@ REQUISITION POWERS:
 These decision trees cover the major procedural sections of the Act that involve clear decision-making pathways. Each tree helps navigate through the specific requirements and options available under different circumstances in Nepal's judicial system.
 
 `;
-window.markdown2Meta = { name: "decisiontrees", 
+window.markdown2Meta = { name: "2.decisiontrees", 
 
   emoji: "📄" };
