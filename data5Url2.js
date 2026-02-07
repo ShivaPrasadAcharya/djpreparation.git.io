@@ -1,6 +1,5 @@
 var data5Url2 = `sno,subject,description,shorturl,longurl
-01,Judiciary Officers,Latest update 2081,CALL,https://github.com/ShivaPrasadAcharya/calljudiciary.git.io/
-
+01,Judiciary Officers,Latest update 2081,CALL,https://shivaprasadacharya.github.io/calljudiciary.git.io/
 
 `;
 
@@ -16,6 +15,7 @@ var data5Url2Info = {
         "subject": "blue"
     }
 };
+
 
 
 
